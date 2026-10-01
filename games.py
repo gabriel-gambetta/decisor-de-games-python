@@ -1,27 +1,67 @@
-def novo_game():
+from random import choice
 
-    nome = input("Nome: ")
-    fantasia = input("Fantasia: ")
-    categoria = input("Categoria: ")
+def decidir_game(biblioteca, gostos):
+    listaFiltrada = []
+    jogoEscolhido = None
+    qtd_gostos = len(gostos.caracteristicas_fantasia)
+    qtd_generos = len(gostos.generos)
 
-    fantasia_ativa = (input("Interesse: "))
+    # Adiciona jogos a listaFiltrada que possuem pelo menos um atributo em comum com gostos.
+    for game in biblioteca:
 
-    if fantasia_ativa[0].upper() in 'T1':
-        fantasia_ativa = True
+        for genero in gostos.generos:
+            if genero in game.genero and game not in listaFiltrada:
+                listaFiltrada.append(game)
 
-    elif fantasia_ativa[0].upper() in 'F0':
-        fantasia_ativa = False
+        for fantasia in gostos.caracteristicas_fantasia:
+            if fantasia in game.caracteristicas_fantasia and game not in listaFiltrada:
+                listaFiltrada.append(game)
+
+
+    # Filtro progressivo de fantasias.
+    listaRefinada = listaFiltrada.copy()
+    for contador in range(1, qtd_gostos + 1):
+
+        for game in listaFiltrada:
+            if len(listaRefinada) == 1:
+                break
+
+            else:
+                for fantasia in gostos.caracteristicas_fantasia[0:contador]:
+                    if fantasia not in game.caracteristicas_fantasia:
+                        if game in listaRefinada:
+                            listaRefinada.remove(game)
+
+
+    # Filtro progressivo de generos.
+    candidatos = listaRefinada.copy()
+    for contador in range(1, qtd_generos + 1):
+            
+        for game in listaRefinada:
+            if len(candidatos) == 1:
+                break
+
+            else:
+                for genero in gostos.generos[0:contador]:
+                    if genero not in game.generos:
+                        if game in candidatos:
+                            candidatos.remove(game)
+
+    
+
+
+    if len(candidatos) > 1:
+        jogoEscolhido = choice(candidatos).nome
 
     else:
-        fantasia_ativa = None
+        jogoEscolhido = candidatos[0].nome
 
-    return Game(nome, fantasia, categoria, fantasia_ativa)
-
+    return jogoEscolhido
 
 class Game:
-    def __init__(self, nome, fantasia, categoria, fantasia_ativa):
+    def __init__(self, nome, categoria, generos, caracteristicas_fantasia):
         self.nome = nome
-        self.fantasia = fantasia
         self.categoria = categoria
-        self.fantasia_ativa = fantasia_ativa
+        self.genero = generos
+        self.caracteristicas_fantasia = caracteristicas_fantasia
 
