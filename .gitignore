@@ -1,2 +1,5 @@
 __pycache__/
-Projeto.txt
+requirements.txt
+.venv/
+.env
+readme.md

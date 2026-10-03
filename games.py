@@ -10,12 +10,15 @@ def decidir_game(biblioteca, gostos):
     for game in biblioteca:
 
         for genero in gostos.generos:
-            if genero in game.genero and game not in listaFiltrada:
+            if genero in game.generos and game not in listaFiltrada:
                 listaFiltrada.append(game)
 
         for fantasia in gostos.caracteristicas_fantasia:
             if fantasia in game.caracteristicas_fantasia and game not in listaFiltrada:
                 listaFiltrada.append(game)
+
+    if not listaFiltrada:
+        return 'Lista Vazia!'
 
 
     # Filtro progressivo de fantasias.
@@ -59,9 +62,8 @@ def decidir_game(biblioteca, gostos):
     return jogoEscolhido
 
 class Game:
-    def __init__(self, nome, categoria, generos, caracteristicas_fantasia):
+    def __init__(self, nome, generos, caracteristicas_fantasia):
         self.nome = nome
-        self.categoria = categoria
         self.genero = generos
         self.caracteristicas_fantasia = caracteristicas_fantasia
 
