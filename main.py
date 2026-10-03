@@ -1,8 +1,13 @@
 import API.steamlibrary, API.steamappdetails
 from time import sleep
+from dotenv import load_dotenv
+from os import getenv
+
+load_dotenv()
+steamID = getenv('STEAM_USER_ID_EXAMPLE')
 
 
-idJogos = API.steamlibrary.obter_id_jogos(76561199660430406)
+idJogos = API.steamlibrary.obter_id_jogos(steamID)
 
 indice, listaGames = API.steamappdetails.dados_steamspy(idJogos)
 
