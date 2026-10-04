@@ -1,5 +1,6 @@
 from requests import get
 
+# Limite de 200 requests / 5 minutos.
 def genres_getappdetails(idJogo):
     genres = []
 
