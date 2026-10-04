@@ -1,4 +1,4 @@
-import API.getownedgames, API.steamspy, API.gettaglist
+import API.getownedgames, API.steamspy, API.gettaglist, API.getappdetails
 from time import sleep
 from dotenv import load_dotenv
 from os import getenv
@@ -9,4 +9,4 @@ steamID = getenv('STEAM_USER_ID_EXAMPLE')
 
 idJogos = API.getownedgames.obter_id_jogos(steamID)
 
-print(API.steamspy.genres_steamspy(1304930))
+print(API.getappdetails.genres_getappdetails(440))
