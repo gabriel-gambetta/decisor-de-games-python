@@ -9,4 +9,4 @@ steamID = getenv('STEAM_USER_ID_EXAMPLE')
 
 idJogos = API.getownedgames.obter_id_jogos(steamID)
 
-print(API.gettaglist.nomear_tags([1695, 122, 1684]))
+print(API.steamspy.genres_steamspy(1304930))

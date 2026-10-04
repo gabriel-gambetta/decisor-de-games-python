@@ -10,7 +10,7 @@ def nomear_tags(TagsID):
     request = get(f'https://api.steampowered.com/IStoreService/GetTagList/v1/?key={api_key}&language=english')
 
     if request.status_code != 200:
-        return "Erro: " + str(request.status_code)
+        return request.status_code
 
     dados = request.json()
 
