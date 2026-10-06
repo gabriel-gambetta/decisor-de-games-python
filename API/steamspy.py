@@ -1,36 +1,30 @@
 from requests import get
-from time import sleep
-from games import Game
 
-def dados_steamspy(idJogos):
-    listaGames = []
-
-    for indice, id in enumerate(idJogos):
-
-        erros = 0  
-        while erros <= 2:
-            game = get(f'https://steamspy.com/api.php?request=appdetails&appid={id}')
+def dados_steamspy(idJogo):
+    nome = generos = tags = None
 
 
-            if game.status_code == 200:
-                dadoGame = game.json()
+    erro = 0
+    while True:
+        if erro == 3:
+            raise Exception(f'Erro ao tentar obter jogo, código: {request.status_code}')
 
-                listaGames.append(Game(
-                    dadoGame['name'],
-                    dadoGame['genre'].split(", "),
-                    list(dadoGame['tags'])
-                ))
+        request = get(f'https://steamspy.com/api.php?request=appdetails&appid={idJogo}')
 
-                break
+        if request.status_code != 200:
+            erro += 1
 
-            else:
-                erros += 1
-                sleep(5)
+        else:
+            break
 
-        if erros > 2:
-            return indice, listaGames
 
-    return indice, listaGames
+    gameDado = request.json()
+
+    nome = gameDado['name']
+    generos = gameDado['genre'].split(", ")
+    tags = list(gameDado['tags'])
+
+    return nome, generos, tags
 
 def genres_steamspy(idJogo):
     genres = None
