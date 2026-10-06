@@ -3,7 +3,7 @@ from random import choice
 def decidir_game(biblioteca, gostos):
     listaFiltrada = []
     jogoEscolhido = None
-    qtd_gostos = len(gostos.caracteristicas_fantasia)
+    qtd_gostos = len(gostos.tags)
     qtd_generos = len(gostos.generos)
 
     # Adiciona jogos a listaFiltrada que possuem pelo menos um atributo em comum com gostos.
@@ -13,8 +13,8 @@ def decidir_game(biblioteca, gostos):
             if genero in game.generos and game not in listaFiltrada:
                 listaFiltrada.append(game)
 
-        for fantasia in gostos.caracteristicas_fantasia:
-            if fantasia in game.caracteristicas_fantasia and game not in listaFiltrada:
+        for fantasia in gostos.tags:
+            if fantasia in game.tags and game not in listaFiltrada:
                 listaFiltrada.append(game)
 
     if not listaFiltrada:
@@ -30,8 +30,8 @@ def decidir_game(biblioteca, gostos):
                 break
 
             else:
-                for fantasia in gostos.caracteristicas_fantasia[0:contador]:
-                    if fantasia not in game.caracteristicas_fantasia:
+                for fantasia in gostos.tags[0:contador]:
+                    if fantasia not in game.tags:
                         if game in listaRefinada:
                             listaRefinada.remove(game)
 
@@ -62,8 +62,8 @@ def decidir_game(biblioteca, gostos):
     return jogoEscolhido
 
 class Game:
-    def __init__(self, nome, generos, caracteristicas_fantasia):
+    def __init__(self, nome, generos, tags):
         self.nome = nome
         self.genero = generos
-        self.caracteristicas_fantasia = caracteristicas_fantasia
+        self.tags = tags      
 
