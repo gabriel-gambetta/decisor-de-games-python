@@ -2,4 +2,3 @@ __pycache__/
 requirements.txt
 .venv/
 .env
-readme.md
