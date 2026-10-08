@@ -20,33 +20,31 @@ def decidir_game(biblioteca, gostos):
     if not listaFiltrada:
         return 'Lista Vazia!'
 
-
-    # Filtro progressivo de fantasias.
-    listaRefinada = listaFiltrada.copy()
-    for contador in range(1, qtd_gostos + 1):
-
-        for game in listaFiltrada:
-            if len(listaRefinada) == 1:
-                break
-
-            else:
-                for fantasia in gostos.tags[0:contador]:
-                    if fantasia not in game.tags:
-                        if game in listaRefinada:
-                            listaRefinada.remove(game)
-
-
     # Filtro progressivo de generos.
-    candidatos = listaRefinada.copy()
+    listaRefinada = listaFiltrada.copy()
     for contador in range(1, qtd_generos + 1):
             
         for game in listaRefinada:
-            if len(candidatos) == 1:
+            if len(listaRefinada) == 1:
                 break
 
             else:
                 for genero in gostos.generos[0:contador]:
                     if genero not in game.generos:
+                        if game in listaRefinada:
+                            listaRefinada.remove(game)
+
+    # Filtro progressivo de tags.
+    candidatos = listaRefinada.copy()
+    for contador in range(1, qtd_gostos + 1):
+
+        for game in candidatos:
+            if len(candidatos) == 1:
+                break
+
+            else:
+                for fantasia in gostos.tags[0:contador]:
+                    if fantasia not in game.tags:
                         if game in candidatos:
                             candidatos.remove(game)
 
@@ -64,6 +62,6 @@ def decidir_game(biblioteca, gostos):
 class Game:
     def __init__(self, nome, generos, tags):
         self.nome = nome
-        self.genero = generos
+        self.generos = generos
         self.tags = tags      
 
