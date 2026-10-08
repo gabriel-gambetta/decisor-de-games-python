@@ -24,7 +24,7 @@ def decidir_game(biblioteca, gostos):
     listaRefinada = listaFiltrada.copy()
     for contador in range(1, qtd_generos + 1):
             
-        for game in listaRefinada:
+        for game in listaFiltrada:
             if len(listaRefinada) == 1:
                 break
 
@@ -38,7 +38,7 @@ def decidir_game(biblioteca, gostos):
     candidatos = listaRefinada.copy()
     for contador in range(1, qtd_gostos + 1):
 
-        for game in candidatos:
+        for game in listaRefinada:
             if len(candidatos) == 1:
                 break
 
@@ -57,7 +57,7 @@ def decidir_game(biblioteca, gostos):
     else:
         jogoEscolhido = candidatos[0].nome
 
-    return jogoEscolhido
+    return jogoEscolhido, candidatos
 
 class Game:
     def __init__(self, nome, generos, tags):
