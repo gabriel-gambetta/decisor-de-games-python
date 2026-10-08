@@ -1,5 +1,5 @@
 import API
-from games import Game
+from models.games import Game
 
 def formar_biblioteca(idUsuario):
     biblioteca = []

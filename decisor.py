@@ -57,11 +57,4 @@ def decidir_game(biblioteca, gostos):
     else:
         jogoEscolhido = candidatos[0].nome
 
-    return jogoEscolhido, candidatos
-
-class Game:
-    def __init__(self, nome, generos, tags):
-        self.nome = nome
-        self.generos = generos
-        self.tags = tags      
-
+    return jogoEscolhido
