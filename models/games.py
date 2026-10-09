@@ -1,6 +1,6 @@
 class Game:
-    def __init__(self, nome, generos, tags):
+    def __init__(self, id, nome, generos, tags):
+        self.id = id
         self.nome = nome
         self.generos = generos
         self.tags = tags      
-

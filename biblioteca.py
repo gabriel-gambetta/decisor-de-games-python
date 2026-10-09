@@ -24,6 +24,6 @@ def formar_biblioteca(idUsuario):
         except Exception:
             nome, generos, tags = API.dados_steamspy(id)
 
-        biblioteca.append(Game(nome, generos, tags))
+        biblioteca.append(Game(id, nome, generos, tags))
 
     return biblioteca
