@@ -2,6 +2,7 @@ from requests import get
 
 # Limite de 200 requests / 5 minutos.
 def genres_getappdetails(idJogo):
+    
     genres = []
 
     erro = 0
@@ -10,6 +11,9 @@ def genres_getappdetails(idJogo):
             raise Exception(f'Erro ao obter gêneros, código: {request.status_code}')
 
         request = get(f'https://store.steampowered.com/api/appdetails?appids={idJogo}')
+
+        if request.status_code == 429:
+            raise Exception(f'Limite da API alcançado!')
 
         if request.status_code != 200:
             erro += 1
