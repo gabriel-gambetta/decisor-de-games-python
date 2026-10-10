@@ -5,9 +5,8 @@ from os import getenv
 load_dotenv()
 api_key = getenv('STEAM_API_KEY')
 
-def nomear_tags(TagsID):
-    listaTags = []
-
+def listar_tags():
+        
     erro = 0
     while True:
         if erro == 3:
@@ -21,11 +20,16 @@ def nomear_tags(TagsID):
         else:
             break
 
-    dados = request.json()
-
-    for id in TagsID:
-        for tag in dados['response']['tags']:
-            if tag['tagid'] == id:
-                listaTags.append(tag['name'])
+    listaTags = request.json()
 
     return listaTags
+
+def nomear_tags(tagsID, listaTags):
+    tags = []
+
+    for id in tagsID:
+        for tag in listaTags['response']['tags']:
+            if tag['tagid'] == id:
+                tags.append(tag['name'])
+
+    return tags

@@ -6,22 +6,33 @@ def formar_biblioteca(idUsuario):
 
     idJogos = API.obter_id_jogos(idUsuario)
 
-    for id in idJogos:
+    try:
+        listaTags = API.listar_tags()
 
-        try:
-            nome, idTags = API.dados_getitems(id)
-            tags = API.nomear_tags(idTags)
+    except Exception:
+        listaTags = None
+
+    for id in idJogos:
+        if listaTags is not None:
 
             try:
-                generos = API.genres_steamspy(id)
+                nome, idTags = API.dados_getitems(id)
+                tags = API.nomear_tags(idTags, listaTags)
 
-            # Fallback dos generos.
+                try:
+                    generos = API.genres_steamspy(id)
+
+                # Fallback dos generos.
+                except Exception:
+                    generos = API.genres_getappdetails(id)
+
+
+            # Fallback do dados_getitems()
             except Exception:
-                generos = API.genres_getappdetails(id)
+                nome, generos, tags = API.dados_steamspy(id)
 
-
-        # Fallback.
-        except Exception:
+        # Fallback de listar_tags().
+        else:
             nome, generos, tags = API.dados_steamspy(id)
 
         biblioteca.append(Game(id, nome, generos, tags))
