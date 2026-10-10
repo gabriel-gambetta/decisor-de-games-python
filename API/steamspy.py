@@ -1,4 +1,5 @@
 from requests import get
+from time import sleep
 
 def dados_steamspy(idJogo):
     nome = generos = tags = None
@@ -10,6 +11,8 @@ def dados_steamspy(idJogo):
             raise Exception(f'Erro ao tentar obter jogo, código: {request.status_code}')
 
         request = get(f'https://steamspy.com/api.php?request=appdetails&appid={idJogo}')
+
+        sleep(1) # 1 Requisição a cada 1 segundo.
 
         if request.status_code != 200:
             erro += 1
@@ -35,6 +38,8 @@ def genres_steamspy(idJogo):
             raise Exception(f'Erro ao obter gêneros, código: {request.status_code}')
 
         request = get(f'https://steamspy.com/api.php?request=appdetails&appid={idJogo}')
+
+        sleep(1) # 1 Requisição a cada 1 segundo.
 
         if request.status_code != 200:
             erro += 1
