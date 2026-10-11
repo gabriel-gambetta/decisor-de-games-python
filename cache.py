@@ -1,6 +1,22 @@
 from json import load, dump
+from pathlib import Path
 
+def verificar_cache():
+      data = Path('data/')
+      cache = Path('data/cache.json')
+
+      if not data.exists():
+            data.mkdir()
+
+      if not cache.exists():
+            cache.touch()
+            
+            with open('data/cache.json', 'w', encoding='utf-8') as arquivo:
+                  dump({}, arquivo, indent=4)
+
+      
 def ler_cache(idJogo):
+      verificar_cache()
 
       with open('data/cache.json', 'r', encoding='utf-8') as cache:
             cachejson = load(cache)
@@ -18,6 +34,8 @@ def ler_cache(idJogo):
       return nome, generos, tags
 
 def escrever_cache(biblioteca):
+    verificar_cache()
+    
     data = {}
 
     for game in biblioteca:
