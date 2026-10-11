@@ -5,6 +5,31 @@ from os import getenv
 load_dotenv()
 api_key = getenv('STEAM_API_KEY')
 
+def obter_steamID(url):
+
+    personalizada = '/id/'
+    padrao = '/profiles/'
+
+    # Se for url personalizada.
+    if personalizada in url:
+        vanityName = url.replace("https://steamcommunity.com/id/", "")
+        vanityName = vanityName.replace("/", "")
+
+        steamID = traduzir_vanity_url(vanityName)
+        
+
+    # Se for url padrão.
+    elif padrao in url:
+        steamID_extraido = url.replace("https://steamcommunity.com/profiles/", "")
+        steamID = steamID_extraido.replace("/", "")
+
+    # Verifica formato de steamID.
+    if len(steamID) != 17 or steamID.isdigit() is False:
+        raise Exception('Formato do steamID incorreto')
+
+    return steamID
+
+
 def traduzir_vanity_url(vanityname):
 
     erro = 0
@@ -29,4 +54,3 @@ def traduzir_vanity_url(vanityname):
     steamID = dados['response']['steamid']
 
     return steamID
-    
