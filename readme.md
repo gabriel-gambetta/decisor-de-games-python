@@ -19,6 +19,6 @@ Em desenvolvimento.
 
 ### Próximos passos
 
-- Implementar um sistema de cache para reduzir o tempo de carregamento de bibliotecas maiores e evitar requisições desnecessárias às APIs.
+- Atualizar como é atualizado o cache pra evitar reescrever o arquivo inteiro.
 - Adicionar novos filtros opcionais para refinar as recomendações.
 - Criar uma interface gráfica (GUI) para facilitar a utilização do programa.
