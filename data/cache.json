@@ -1,0 +1,7603 @@
+{
+    "440": {
+        "nome": "Team Fortress 2",
+        "generos": [
+            "Action",
+            "Free To Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Hero Shooter",
+            "Multiplayer",
+            "FPS",
+            "Shooter",
+            "Action",
+            "Class-Based",
+            "Funny",
+            "Team-Based",
+            "First-Person",
+            "Online Co-Op",
+            "Competitive",
+            "Cartoony",
+            "Trading",
+            "Co-op",
+            "Comedy",
+            "Robots",
+            "Tactical",
+            "Cartoon",
+            "Crafting"
+        ]
+    },
+    "550": {
+        "nome": "Left 4 Dead 2",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Zombies",
+            "Co-op",
+            "FPS",
+            "Multiplayer",
+            "Shooter",
+            "Online Co-Op",
+            "Action",
+            "Survival",
+            "Horror",
+            "Gore",
+            "First-Person",
+            "Team-Based",
+            "Moddable",
+            "Survival Horror",
+            "Post-apocalyptic",
+            "Singleplayer",
+            "Adventure",
+            "Local Co-Op",
+            "Replay Value",
+            "Tactical"
+        ]
+    },
+    "620": {
+        "nome": "Portal 2",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Singleplayer",
+            "Platformer",
+            "Puzzle",
+            "First-Person",
+            "Dark Humor",
+            "Story Rich",
+            "Puzzle Platformer",
+            "Funny",
+            "Female Protagonist",
+            "3D Platformer",
+            "Co-op",
+            "Action-Adventure",
+            "Action",
+            "FPS",
+            "Physics",
+            "Sci-fi",
+            "Level Editor",
+            "Science",
+            "Comedy",
+            "Atmospheric"
+        ]
+    },
+    "730": {
+        "nome": "Counter-Strike 2",
+        "generos": [
+            "Action",
+            "Free To Play"
+        ],
+        "tags": [
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Competitive",
+            "Action",
+            "Team-Based",
+            "eSports",
+            "Tactical",
+            "First-Person",
+            "PvP",
+            "Online Co-Op",
+            "Co-op",
+            "Strategy",
+            "Military",
+            "War",
+            "Trading",
+            "Difficult",
+            "Realistic",
+            "Fast-Paced",
+            "Moddable"
+        ]
+    },
+    "1250": {
+        "nome": "Killing Floor",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "FPS",
+            "Zombies",
+            "Co-op",
+            "Survival",
+            "Horror",
+            "Action",
+            "Multiplayer",
+            "Online Co-Op",
+            "Violent",
+            "Gore",
+            "Shooter",
+            "Team-Based",
+            "First-Person",
+            "Survival Horror",
+            "Moddable",
+            "Singleplayer",
+            "Bullet Time",
+            "Class-Based",
+            "3D",
+            "Dark Comedy"
+        ]
+    },
+    "4000": {
+        "nome": "Garry's Mod",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Sandbox",
+            "Moddable",
+            "Multiplayer",
+            "Physics",
+            "Building",
+            "Casual",
+            "Funny",
+            "First-Person",
+            "Singleplayer",
+            "FPS",
+            "Simulation",
+            "Comedy",
+            "Online Co-Op",
+            "Shooter",
+            "Co-op",
+            "Action",
+            "Indie",
+            "PvP",
+            "Realistic",
+            "Exploration"
+        ]
+    },
+    "4700": {
+        "nome": "Total War: MEDIEVAL II – Definitive Edition",
+        "generos": [
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Medieval",
+            "Historical",
+            "Turn-Based Strategy",
+            "Grand Strategy",
+            "War",
+            "RTS",
+            "Tactical",
+            "Multiplayer",
+            "Singleplayer",
+            "Military",
+            "Moddable",
+            "Turn-Based",
+            "Real Time Tactics",
+            "Classic",
+            "Simulation",
+            "Action",
+            "Sandbox",
+            "Great Soundtrack",
+            "4X"
+        ]
+    },
+    "10150": {
+        "nome": "Prototype™",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Open World",
+            "Gore",
+            "Singleplayer",
+            "Superhero",
+            "Third Person",
+            "Adventure",
+            "Parkour",
+            "Violent",
+            "Hack and Slash",
+            "Zombies",
+            "Action-Adventure",
+            "Sci-fi",
+            "Story Rich",
+            "Sandbox",
+            "RPG",
+            "Stealth",
+            "Controller",
+            "Horror",
+            "Atmospheric"
+        ]
+    },
+    "12750": {
+        "nome": "GRID",
+        "generos": [
+            "Racing"
+        ],
+        "tags": [
+            "Racing",
+            "Simulation",
+            "Driving",
+            "Multiplayer",
+            "Singleplayer",
+            "Arcade",
+            "Sports",
+            "Controller",
+            "Classic",
+            "Action"
+        ]
+    },
+    "15100": {
+        "nome": "Assassin's Creed™: Director's Cut Edition",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Combat",
+            "Stealth",
+            "Adventure",
+            "Historical",
+            "Third Person",
+            "Parkour",
+            "Assassins",
+            "Exploration",
+            "Singleplayer",
+            "Medieval",
+            "Story Rich",
+            "Conspiracy",
+            "Atmospheric",
+            "Open World",
+            "Realistic",
+            "Action-Adventure",
+            "3D",
+            "Cinematic",
+            "Soundtrack"
+        ]
+    },
+    "17300": {
+        "nome": "Crysis",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "FPS",
+            "Action",
+            "Sci-fi",
+            "Singleplayer",
+            "Shooter",
+            "Stealth",
+            "Open World",
+            "Aliens",
+            "First-Person",
+            "Benchmark",
+            "Multiplayer",
+            "Futuristic",
+            "Atmospheric",
+            "Adventure",
+            "Story Rich",
+            "Classic",
+            "Destruction",
+            "Sandbox",
+            "Great Soundtrack",
+            "Moddable"
+        ]
+    },
+    "17450": {
+        "nome": "Dragon Age: Origins",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Fantasy",
+            "Story Rich",
+            "Singleplayer",
+            "Multiple Endings",
+            "Choices Matter",
+            "Adventure",
+            "Character Customization",
+            "Real-Time with Pause",
+            "Atmospheric",
+            "Dark Fantasy",
+            "Party-Based RPG",
+            "Tactical",
+            "Romance",
+            "Open World",
+            "Dragons",
+            "Third Person",
+            "Action",
+            "Female Protagonist",
+            "Loot"
+        ]
+    },
+    "20900": {
+        "nome": "The Witcher: Enhanced Edition Director's Cut",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Fantasy",
+            "Story Rich",
+            "Singleplayer",
+            "Choices Matter",
+            "Action",
+            "Third Person",
+            "Nudity",
+            "Adventure",
+            "Dark Fantasy",
+            "Based On A Novel",
+            "Atmospheric",
+            "Open World",
+            "Great Soundtrack",
+            "Medieval",
+            "Multiple Endings",
+            "Action RPG",
+            "Magic",
+            "Classic",
+            "Sexual Content"
+        ]
+    },
+    "20920": {
+        "nome": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Fantasy",
+            "Story Rich",
+            "Choices Matter",
+            "Singleplayer",
+            "Third Person",
+            "Nudity",
+            "Adventure",
+            "Dark Fantasy",
+            "Multiple Endings",
+            "Open World",
+            "Action",
+            "Atmospheric",
+            "Based On A Novel",
+            "Difficult",
+            "Medieval",
+            "Magic",
+            "Dark",
+            "Nonlinear",
+            "Action RPG"
+        ]
+    },
+    "22380": {
+        "nome": "Fallout: New Vegas",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "RPG",
+            "Post-apocalyptic",
+            "Singleplayer",
+            "Moddable",
+            "Story Rich",
+            "Exploration",
+            "First-Person",
+            "Action",
+            "Adventure",
+            "FPS",
+            "Sci-fi",
+            "Western",
+            "Atmospheric",
+            "Action RPG",
+            "Character Customization",
+            "Survival",
+            "Shooter",
+            "Sandbox",
+            "Third Person"
+        ]
+    },
+    "33230": {
+        "nome": "Assassin's Creed 2",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Open World",
+            "Assassins",
+            "Parkour",
+            "Stealth",
+            "Adventure",
+            "Historical",
+            "Third Person",
+            "Story Rich",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Action-Adventure",
+            "Conspiracy",
+            "Multiplayer",
+            "Classic",
+            "Controller",
+            "Alternate History",
+            "Sandbox",
+            "Sci-fi"
+        ]
+    },
+    "34330": {
+        "nome": "Total War: SHOGUN 2",
+        "generos": [
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Historical",
+            "Turn-Based Strategy",
+            "RTS",
+            "Grand Strategy",
+            "Tactical",
+            "Singleplayer",
+            "Multiplayer",
+            "Samurai",
+            "Real Time Tactics",
+            "Military",
+            "Diplomacy",
+            "Ninja",
+            "Co-op",
+            "Turn-Based",
+            "Medieval",
+            "Great Soundtrack",
+            "Moddable",
+            "Turn-Based Tactics",
+            "Action"
+        ]
+    },
+    "35420": {
+        "nome": "Defence Alliance 2",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Mod",
+            "FPS",
+            "Multiplayer",
+            "Co-op",
+            "Shooter"
+        ]
+    },
+    "40800": {
+        "nome": "Super Meat Boy",
+        "generos": [
+            "Indie"
+        ],
+        "tags": [
+            "Precision Platformer",
+            "Platformer",
+            "Difficult",
+            "Indie",
+            "2D Platformer",
+            "Pixel Graphics",
+            "2D",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Fast-Paced",
+            "Retro",
+            "Controller",
+            "Gore",
+            "Action",
+            "Time Attack",
+            "Funny",
+            "Comedy",
+            "Side Scroller",
+            "Replay Value",
+            "Adventure"
+        ]
+    },
+    "47810": {
+        "nome": "Dragon Age: Origins - Ultimate Edition",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Fantasy",
+            "Story Rich",
+            "Choices Matter",
+            "Singleplayer",
+            "Party-Based RPG",
+            "Real-Time with Pause",
+            "Character Customization",
+            "Adventure",
+            "Dark Fantasy",
+            "Multiple Endings",
+            "Strategy",
+            "Dragons",
+            "Female Protagonist",
+            "Classic",
+            "Open World",
+            "Tactical",
+            "Moddable",
+            "Romance",
+            "Dwarves"
+        ]
+    },
+    "48190": {
+        "nome": "Assassin’s Creed® Brotherhood",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Open World",
+            "Adventure",
+            "Stealth",
+            "Parkour",
+            "Assassins",
+            "Third Person",
+            "Multiplayer",
+            "Historical",
+            "Singleplayer",
+            "Rome",
+            "Story Rich",
+            "Great Soundtrack",
+            "Action-Adventure",
+            "Atmospheric",
+            "Conspiracy",
+            "Medieval",
+            "Controller",
+            "Sandbox",
+            "RPG"
+        ]
+    },
+    "49520": {
+        "nome": "Borderlands 2",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Loot",
+            "Shooter",
+            "Action",
+            "Multiplayer",
+            "Co-op",
+            "Looter Shooter",
+            "FPS",
+            "RPG",
+            "First-Person",
+            "Funny",
+            "Comedy",
+            "Open World",
+            "Combat",
+            "Online Co-Op",
+            "Adventure",
+            "Action RPG",
+            "Dark Humor",
+            "Singleplayer",
+            "Memes",
+            "Sci-fi"
+        ]
+    },
+    "50620": {
+        "nome": "Darksiders™",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Hack and Slash",
+            "Third Person",
+            "Singleplayer",
+            "Post-apocalyptic",
+            "Fantasy",
+            "Controller",
+            "Action RPG",
+            "Action-Adventure",
+            "Puzzle",
+            "Open World",
+            "Gore",
+            "RPG",
+            "Spectacle fighter",
+            "3D Platformer",
+            "Beat 'em up",
+            "Metroidvania",
+            "Character Action Game",
+            "Platformer"
+        ]
+    },
+    "57300": {
+        "nome": "Amnesia: The Dark Descent",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Horror",
+            "Gore",
+            "Psychological Horror",
+            "Survival Horror",
+            "Atmospheric",
+            "Puzzle",
+            "First-Person",
+            "Dark",
+            "Nudity",
+            "Lovecraftian",
+            "Adventure",
+            "Indie",
+            "Singleplayer",
+            "Stealth",
+            "Exploration",
+            "Action",
+            "Story Rich",
+            "Physics",
+            "Walking Simulator",
+            "Surreal"
+        ]
+    },
+    "107410": {
+        "nome": "Arma 3",
+        "generos": [
+            "Action",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Military",
+            "Action",
+            "Multiplayer",
+            "Shooter",
+            "Simulation",
+            "Realistic",
+            "First-Person",
+            "Open World",
+            "Tactical",
+            "FPS",
+            "War",
+            "Co-op",
+            "Sandbox",
+            "Strategy",
+            "Singleplayer",
+            "Moddable",
+            "Combat",
+            "Online Co-Op",
+            "Team-Based",
+            "Third-Person Shooter"
+        ]
+    },
+    "108710": {
+        "nome": "Alan Wake",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Horror",
+            "Story Rich",
+            "Third Person",
+            "Adventure",
+            "Thriller",
+            "Atmospheric",
+            "Singleplayer",
+            "Psychological Horror",
+            "Great Soundtrack",
+            "Mystery",
+            "Episodic",
+            "Third-Person Shooter",
+            "Supernatural",
+            "Dark",
+            "Cinematic",
+            "Survival Horror",
+            "Shooter",
+            "Survival",
+            "Multiplayer"
+        ]
+    },
+    "108800": {
+        "nome": "Crysis 2 - Maximum Edition",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "FPS",
+            "Sci-fi",
+            "Shooter",
+            "Singleplayer",
+            "Multiplayer",
+            "Stealth",
+            "Aliens",
+            "First-Person",
+            "Futuristic",
+            "Benchmark",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Adventure",
+            "Story Rich",
+            "Cyberpunk",
+            "Open World",
+            "Survival",
+            "RPG",
+            "Co-op"
+        ]
+    },
+    "115320": {
+        "nome": "Prototype 2",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Open World",
+            "Gore",
+            "Superhero",
+            "Violent",
+            "Third Person",
+            "Singleplayer",
+            "Adventure",
+            "Zombies",
+            "Parkour",
+            "Hack and Slash",
+            "Sandbox",
+            "Sci-fi",
+            "Story Rich",
+            "RPG",
+            "Multiplayer",
+            "Horror",
+            "Atmospheric",
+            "Stealth",
+            "Villain Protagonist"
+        ]
+    },
+    "201870": {
+        "nome": "Assassin's Creed® Revelations",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Open World",
+            "Parkour",
+            "Stealth",
+            "Adventure",
+            "Assassins",
+            "Third Person",
+            "Multiplayer",
+            "Historical",
+            "Singleplayer",
+            "Story Rich",
+            "Atmospheric",
+            "Action-Adventure",
+            "Great Soundtrack",
+            "Medieval",
+            "Conspiracy",
+            "Controller",
+            "RPG",
+            "Sandbox",
+            "Sci-fi"
+        ]
+    },
+    "203160": {
+        "nome": "Tomb Raider Game of the Year",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Adventure",
+            "Action",
+            "Female Protagonist",
+            "Third Person",
+            "Singleplayer",
+            "Story Rich",
+            "Third-Person Shooter",
+            "Multiplayer",
+            "Exploration",
+            "Action-Adventure",
+            "Quick-Time Events",
+            "Atmospheric",
+            "Puzzle",
+            "Shooter",
+            "Stealth",
+            "Cinematic",
+            "Platformer",
+            "RPG",
+            "Reboot",
+            "Horror"
+        ]
+    },
+    "204100": {
+        "nome": "Max Payne 3",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Third-Person Shooter",
+            "Bullet Time",
+            "Story Rich",
+            "Multiplayer",
+            "Shooter",
+            "Cinematic",
+            "Third Person",
+            "Noir",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Violent",
+            "Nudity",
+            "Adventure",
+            "Dark",
+            "Linear",
+            "Open World",
+            "Co-op",
+            "Gore"
+        ]
+    },
+    "204450": {
+        "nome": "Call of Juarez: Gunslinger",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Western",
+            "FPS",
+            "Action",
+            "Singleplayer",
+            "Shooter",
+            "Story Rich",
+            "Bullet Time",
+            "Comedy",
+            "First-Person",
+            "Adventure",
+            "Dynamic Narration",
+            "Funny",
+            "Violent",
+            "Atmospheric",
+            "Gore",
+            "Arcade",
+            "Historical",
+            "Alternate History",
+            "Linear",
+            "Soundtrack"
+        ]
+    },
+    "211420": {
+        "nome": "DARK SOULS™: Prepare To Die™ Edition",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "RPG",
+            "Difficult",
+            "Dark Fantasy",
+            "Action",
+            "Exploration",
+            "Lore-Rich",
+            "Fantasy",
+            "Adventure",
+            "Atmospheric",
+            "Immersive",
+            "Third Person",
+            "Action RPG",
+            "Addictive",
+            "Replay Value",
+            "Open World",
+            "Dark",
+            "Multiplayer",
+            "Great Soundtrack",
+            "Story Rich"
+        ]
+    },
+    "211820": {
+        "nome": "Starbound",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie",
+            "RPG"
+        ],
+        "tags": [
+            "Open World Survival Craft",
+            "Sandbox",
+            "Survival",
+            "Space",
+            "Adventure",
+            "Crafting",
+            "Pixel Graphics",
+            "Online Co-Op",
+            "Multiplayer",
+            "Open World",
+            "Exploration",
+            "Relaxing",
+            "Indie",
+            "2D",
+            "Action",
+            "Building",
+            "Co-op",
+            "RPG",
+            "Atmospheric",
+            "Sci-fi"
+        ]
+    },
+    "212480": {
+        "nome": "Sonic & All-Stars Racing Transformed Collection",
+        "generos": [
+            "Racing",
+            "Sports"
+        ],
+        "tags": [
+            "Racing",
+            "Local Multiplayer",
+            "Multiplayer",
+            "Great Soundtrack",
+            "Local Co-Op",
+            "Sports",
+            "Split Screen",
+            "Arcade",
+            "Replay Value",
+            "4 Player Local",
+            "Controller",
+            "Family Friendly",
+            "Online Co-Op",
+            "Singleplayer",
+            "Fast-Paced",
+            "Colorful",
+            "Action",
+            "Co-op",
+            "Adventure",
+            "Touch-Friendly"
+        ]
+    },
+    "214490": {
+        "nome": "Alien: Isolation",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Horror",
+            "Survival Horror",
+            "Sci-fi",
+            "Aliens",
+            "Atmospheric",
+            "Stealth",
+            "First-Person",
+            "Space",
+            "Female Protagonist",
+            "Singleplayer",
+            "Survival",
+            "Action",
+            "Difficult",
+            "Psychological Horror",
+            "Adventure",
+            "Great Soundtrack",
+            "FPS",
+            "Gore",
+            "Shooter",
+            "VR"
+        ]
+    },
+    "215080": {
+        "nome": "WAKFU",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Massively Multiplayer",
+            "RPG",
+            "Strategy",
+            "Free To Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Turn-Based Strategy",
+            "Massively Multiplayer",
+            "MMORPG",
+            "Open World",
+            "RPG",
+            "Turn-Based",
+            "Strategy",
+            "Adventure",
+            "Anime",
+            "Tactical",
+            "Multiplayer",
+            "Fantasy",
+            "Isometric",
+            "2D",
+            "Tactical RPG",
+            "Turn-Based Combat",
+            "Action",
+            "Sandbox",
+            "Co-op"
+        ]
+    },
+    "218620": {
+        "nome": "PAYDAY 2",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Co-op",
+            "Action",
+            "FPS",
+            "Heist",
+            "Multiplayer",
+            "Looter Shooter",
+            "Online Co-Op",
+            "Stealth",
+            "Crime",
+            "Shooter",
+            "Team-Based",
+            "First-Person",
+            "Great Soundtrack",
+            "Gun Customization",
+            "Tactical",
+            "PvE",
+            "Strategy",
+            "Singleplayer",
+            "Funny",
+            "Simulation"
+        ]
+    },
+    "219740": {
+        "nome": "Don't Starve",
+        "generos": [
+            "Adventure",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Survival",
+            "Open World Survival Craft",
+            "Crafting",
+            "Adventure",
+            "Indie",
+            "Sandbox",
+            "Singleplayer",
+            "Perma Death",
+            "Multiplayer",
+            "Open World",
+            "Exploration",
+            "Roguelike",
+            "Replay Value",
+            "Moddable",
+            "Difficult",
+            "Simulation",
+            "2D",
+            "Top-Down",
+            "Survival Horror",
+            "Horror"
+        ]
+    },
+    "220240": {
+        "nome": "Far Cry 3",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "FPS",
+            "Action",
+            "Adventure",
+            "Multiplayer",
+            "Shooter",
+            "Stealth",
+            "Co-op",
+            "First-Person",
+            "Hunting",
+            "Singleplayer",
+            "Story Rich",
+            "Survival",
+            "Sandbox",
+            "Online Co-Op",
+            "Nudity",
+            "Atmospheric",
+            "Crafting",
+            "Colorful",
+            "RPG"
+        ]
+    },
+    "225260": {
+        "nome": "Brutal Legend",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Strategy"
+        ],
+        "tags": [
+            "Action",
+            "Comedy",
+            "Adventure",
+            "Great Soundtrack",
+            "Open World",
+            "Music",
+            "Hack and Slash",
+            "Strategy",
+            "Third Person",
+            "Funny",
+            "RTS",
+            "Fantasy",
+            "Singleplayer",
+            "Gothic",
+            "Action-Adventure",
+            "Multiplayer",
+            "Atmospheric",
+            "Beat 'em up",
+            "RPG",
+            "Action RPG"
+        ]
+    },
+    "225540": {
+        "nome": "Just Cause™ 3",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Destruction",
+            "Multiplayer",
+            "Third-Person Shooter",
+            "Singleplayer",
+            "Shooter",
+            "Adventure",
+            "Sandbox",
+            "Third Person",
+            "Exploration",
+            "Physics",
+            "Funny",
+            "Atmospheric",
+            "Co-op",
+            "Parkour",
+            "Comedy",
+            "Great Soundtrack",
+            "Moddable",
+            "RPG"
+        ]
+    },
+    "227300": {
+        "nome": "Euro Truck Simulator 2",
+        "generos": [
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Driving",
+            "Transportation",
+            "Simulation",
+            "Open World",
+            "Automobile Sim",
+            "Realistic",
+            "Moddable",
+            "Relaxing",
+            "Exploration",
+            "Economy",
+            "Immersive Sim",
+            "Management",
+            "Atmospheric",
+            "Multiplayer",
+            "Controller",
+            "Family Friendly",
+            "Third Person",
+            "Adventure",
+            "Casual",
+            "Indie"
+        ]
+    },
+    "231430": {
+        "nome": "Company of Heroes 2",
+        "generos": [
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "World War II",
+            "RTS",
+            "Multiplayer",
+            "Tactical",
+            "War",
+            "Historical",
+            "Military",
+            "Singleplayer",
+            "Co-op",
+            "Online Co-Op",
+            "Base Building",
+            "Tanks",
+            "Real-Time",
+            "Action",
+            "Real-Time with Pause",
+            "Simulation",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Adventure"
+        ]
+    },
+    "232090": {
+        "nome": "Killing Floor 2",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Gore",
+            "Zombies",
+            "Multiplayer",
+            "Online Co-Op",
+            "FPS",
+            "Post-apocalyptic",
+            "Hack and Slash",
+            "Shooter",
+            "Horror",
+            "Action",
+            "Survival",
+            "Moddable",
+            "First-Person",
+            "Co-op",
+            "Survival Horror",
+            "Team-Based",
+            "Atmospheric",
+            "PvE",
+            "Character Customization",
+            "Dark"
+        ]
+    },
+    "233130": {
+        "nome": "Shadow Warrior",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "FPS",
+            "Gore",
+            "Swordplay",
+            "Comedy",
+            "First-Person",
+            "Hack and Slash",
+            "Singleplayer",
+            "Shooter",
+            "Adventure",
+            "Old School",
+            "Ninja",
+            "Dark Humor",
+            "Great Soundtrack",
+            "Demons",
+            "Reboot",
+            "Funny",
+            "Remake",
+            "Classic",
+            "Atmospheric"
+        ]
+    },
+    "234140": {
+        "nome": "Mad Max",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Vehicular Combat",
+            "Post-apocalyptic",
+            "Action",
+            "Driving",
+            "Singleplayer",
+            "Survival",
+            "Third Person",
+            "Adventure",
+            "Exploration",
+            "Automobile Sim",
+            "Atmospheric",
+            "Racing",
+            "Story Rich",
+            "Multiplayer",
+            "Sandbox",
+            "RPG",
+            "Shooter",
+            "Third-Person Shooter",
+            "War"
+        ]
+    },
+    "235460": {
+        "nome": "METAL GEAR RISING: REVENGEANCE",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Great Soundtrack",
+            "Hack and Slash",
+            "Action",
+            "Spectacle fighter",
+            "Swordplay",
+            "Character Action Game",
+            "Singleplayer",
+            "Third Person",
+            "Fast-Paced",
+            "Ninja",
+            "Gore",
+            "Story Rich",
+            "Cyberpunk",
+            "Difficult",
+            "Sci-fi",
+            "Replay Value",
+            "Mechs",
+            "Beat 'em up",
+            "Adventure",
+            "Stealth"
+        ]
+    },
+    "235600": {
+        "nome": "Tom Clancy’s Splinter Cell Blacklist",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Stealth",
+            "Action",
+            "Co-op",
+            "Third Person",
+            "Singleplayer",
+            "Multiplayer",
+            "Shooter",
+            "Adventure",
+            "Tactical",
+            "Third-Person Shooter",
+            "Online Co-Op",
+            "Parkour",
+            "Controller",
+            "Story Rich",
+            "FPS",
+            "Strategy",
+            "Atmospheric",
+            "Espionage",
+            "First-Person",
+            "RPG"
+        ]
+    },
+    "236870": {
+        "nome": "HITMAN™",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Stealth",
+            "Assassins",
+            "Action",
+            "Third Person",
+            "Singleplayer",
+            "Tactical",
+            "Shooter",
+            "Open World",
+            "Atmospheric",
+            "Crime",
+            "Sandbox",
+            "Strategy",
+            "Story Rich",
+            "Episodic",
+            "Third-Person Shooter",
+            "Great Soundtrack",
+            "Adventure",
+            "Heist",
+            "Nudity",
+            "Multiplayer"
+        ]
+    },
+    "239030": {
+        "nome": "Papers, Please",
+        "generos": [
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Indie",
+            "Simulation",
+            "Point & Click",
+            "Pixel Graphics",
+            "Singleplayer",
+            "Dystopian ",
+            "Multiple Endings",
+            "Puzzle",
+            "Story Rich",
+            "Retro",
+            "Atmospheric",
+            "2D",
+            "Addictive",
+            "Great Soundtrack",
+            "Replay Value",
+            "Strategy",
+            "Casual",
+            "Difficult",
+            "Adventure",
+            "Choices Matter"
+        ]
+    },
+    "239140": {
+        "nome": "Dying Light",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Zombies",
+            "Survival Horror",
+            "Horror",
+            "Online Co-Op",
+            "Open World",
+            "Parkour",
+            "First-Person",
+            "Survival",
+            "Gore",
+            "Open World Survival Craft",
+            "Action",
+            "FPS",
+            "Multiplayer",
+            "PvE",
+            "Stealth",
+            "PvP",
+            "Post-apocalyptic",
+            "Story Rich",
+            "Action RPG",
+            "Hack and Slash"
+        ]
+    },
+    "239200": {
+        "nome": "Amnesia: A Machine for Pigs",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Horror",
+            "Walking Simulator",
+            "Story Rich",
+            "Atmospheric",
+            "First-Person",
+            "Psychological Horror",
+            "Exploration",
+            "Mystery",
+            "Interactive Fiction",
+            "Singleplayer",
+            "Adventure",
+            "Indie",
+            "Survival Horror",
+            "Dark",
+            "Short",
+            "Lovecraftian",
+            "Action",
+            "Puzzle",
+            "Linear",
+            "Visual Novel"
+        ]
+    },
+    "239820": {
+        "nome": "Game Dev Tycoon",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Management",
+            "Simulation",
+            "Indie",
+            "Strategy",
+            "Casual",
+            "Singleplayer",
+            "Economy",
+            "2D",
+            "Moddable",
+            "Addictive",
+            "Replay Value",
+            "Sandbox",
+            "Funny",
+            "Difficult",
+            "Point & Click",
+            "Great Soundtrack",
+            "Isometric",
+            "Touch-Friendly",
+            "Comedy",
+            "Adventure"
+        ]
+    },
+    "241560": {
+        "nome": "The Crew™",
+        "generos": [
+            "Action",
+            "Massively Multiplayer",
+            "Racing"
+        ],
+        "tags": [
+            "Racing",
+            "Open World",
+            "Multiplayer",
+            "Driving",
+            "Co-op",
+            "Massively Multiplayer",
+            "Automobile Sim",
+            "Offroad",
+            "Action",
+            "Online Co-Op",
+            "Atmospheric",
+            "Arcade",
+            "Simulation",
+            "Singleplayer",
+            "First-Person",
+            "Great Soundtrack",
+            "Sandbox",
+            "Team-Based",
+            "RPG",
+            "Family Friendly"
+        ]
+    },
+    "241930": {
+        "nome": "Middle-earth™: Shadow of Mordor™",
+        "generos": [
+            ""
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Fantasy",
+            "Adventure",
+            "Third Person",
+            "Stealth",
+            "Singleplayer",
+            "RPG",
+            "Action RPG",
+            "Assassins",
+            "Hack and Slash",
+            "Gore",
+            "Parkour",
+            "Story Rich",
+            "Atmospheric",
+            "Dark Fantasy",
+            "Magic",
+            "Lore-Rich",
+            "Based On A Novel",
+            "Sandbox"
+        ]
+    },
+    "242050": {
+        "nome": "Assassin’s Creed® IV Black Flag™",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Pirates",
+            "Open World",
+            "Assassins",
+            "Adventure",
+            "Action",
+            "Stealth",
+            "Parkour",
+            "Third Person",
+            "Naval",
+            "Multiplayer",
+            "Historical",
+            "Story Rich",
+            "Singleplayer",
+            "Exploration",
+            "Action-Adventure",
+            "Naval Combat",
+            "Atmospheric",
+            "RPG",
+            "Action RPG",
+            "Co-op"
+        ]
+    },
+    "242640": {
+        "nome": "Styx: Master of Shadows",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Stealth",
+            "Singleplayer",
+            "Action",
+            "Adventure",
+            "Atmospheric",
+            "Assassins",
+            "Violent",
+            "Third Person",
+            "Story Rich",
+            "Parkour",
+            "Dark Fantasy",
+            "Fantasy",
+            "RPG",
+            "Steampunk",
+            "Magic",
+            "Difficult",
+            "Open World",
+            "Great Soundtrack",
+            "Multiplayer",
+            "Indie"
+        ]
+    },
+    "242760": {
+        "nome": "The Forest",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Open World Survival Craft",
+            "Survival",
+            "Horror",
+            "Open World",
+            "Crafting",
+            "Adventure",
+            "Building",
+            "Survival Horror",
+            "First-Person",
+            "Action",
+            "Exploration",
+            "Sandbox",
+            "Singleplayer",
+            "Atmospheric",
+            "Simulation",
+            "Gore",
+            "Realistic",
+            "Indie",
+            "Zombies",
+            "Early Access"
+        ]
+    },
+    "246620": {
+        "nome": "Plague Inc: Evolved",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Simulation",
+            "Outbreak Sim",
+            "Indie",
+            "Singleplayer",
+            "Multiplayer",
+            "Zombies",
+            "Casual",
+            "Tactical",
+            "Replay Value",
+            "Post-apocalyptic",
+            "Addictive",
+            "Realistic",
+            "2D",
+            "Difficult",
+            "Co-op",
+            "Atmospheric",
+            "Sandbox",
+            "Survival",
+            "Early Access"
+        ]
+    },
+    "250320": {
+        "nome": "The Wolf Among Us",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual"
+        ],
+        "tags": [
+            "Adventure",
+            "Story Rich",
+            "Detective",
+            "Multiple Endings",
+            "Choices Matter",
+            "Choose Your Own Adventure",
+            "Visual Novel",
+            "Episodic",
+            "Action",
+            "Point & Click",
+            "Noir",
+            "Singleplayer",
+            "Atmospheric",
+            "Comic Book",
+            "Mystery",
+            "Cinematic",
+            "Dark",
+            "Fantasy",
+            "Quick-Time Events",
+            "Great Soundtrack"
+        ]
+    },
+    "250900": {
+        "nome": "The Binding of Isaac: Rebirth",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action Roguelike",
+            "Roguelike",
+            "Indie",
+            "Replay Value",
+            "Difficult",
+            "Pixel Graphics",
+            "Dungeon Crawler",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Dark",
+            "2D",
+            "Local Co-Op",
+            "Gore",
+            "Remake",
+            "Roguelite",
+            "Procedural Generation",
+            "Co-op",
+            "Atmospheric",
+            "Action",
+            "Horror"
+        ]
+    },
+    "251990": {
+        "nome": "Long Live The Queen",
+        "generos": [
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Visual Novel",
+            "Political Sim",
+            "Anime",
+            "Female Protagonist",
+            "Simulation",
+            "Indie",
+            "Difficult",
+            "Strategy",
+            "Singleplayer",
+            "Fantasy",
+            "RPG",
+            "Cute",
+            "Multiple Endings",
+            "Choose Your Own Adventure",
+            "Medieval",
+            "Choices Matter",
+            "Story Rich",
+            "Character Customization",
+            "2D",
+            "Casual"
+        ]
+    },
+    "252950": {
+        "nome": "Rocket League®",
+        "generos": [
+            "Action",
+            "Indie",
+            "Racing",
+            "Sports"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Football (Soccer)",
+            "Competitive",
+            "Sports",
+            "Racing",
+            "Team-Based",
+            "Online Co-Op",
+            "Football (American)",
+            "Fast-Paced",
+            "Co-op",
+            "Action",
+            "Funny",
+            "Great Soundtrack",
+            "Local Multiplayer",
+            "Split Screen",
+            "Local Co-Op",
+            "Singleplayer",
+            "4 Player Local",
+            "Casual",
+            "Indie"
+        ]
+    },
+    "255520": {
+        "nome": "Viscera Cleanup Detail: Shadow Warrior",
+        "generos": [
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Simulation",
+            "Gore",
+            "First-Person",
+            "Indie",
+            "Action",
+            "Comedy",
+            "Funny",
+            "Multiplayer",
+            "Singleplayer",
+            "Casual",
+            "Co-op",
+            "Cleaning",
+            "Short",
+            "FPS",
+            "Horror"
+        ]
+    },
+    "255710": {
+        "nome": "Cities: Skylines",
+        "generos": [
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "City Builder",
+            "Simulation",
+            "Building",
+            "Management",
+            "Strategy",
+            "Sandbox",
+            "Singleplayer",
+            "Economy",
+            "Moddable",
+            "Resource Management",
+            "Mod",
+            "Realistic",
+            "Replay Value",
+            "Casual",
+            "Modern",
+            "Real-Time with Pause",
+            "Family Friendly",
+            "Great Soundtrack",
+            "Funny",
+            "Action"
+        ]
+    },
+    "261550": {
+        "nome": "Mount & Blade II: Bannerlord",
+        "generos": [
+            "Action",
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Medieval",
+            "Strategy",
+            "Open World",
+            "RPG",
+            "War",
+            "Multiplayer",
+            "Sandbox",
+            "Singleplayer",
+            "Action",
+            "Character Customization",
+            "Simulation",
+            "Moddable",
+            "Adventure",
+            "Horses",
+            "Realistic",
+            "Third Person",
+            "Historical",
+            "First-Person",
+            "Great Soundtrack",
+            "Early Access"
+        ]
+    },
+    "262060": {
+        "nome": "Darkest Dungeon®",
+        "generos": [
+            "Indie",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "Turn-Based Combat",
+            "Dungeon Crawler",
+            "Dark Fantasy",
+            "Roguelike",
+            "RPG",
+            "Lovecraftian",
+            "Difficult",
+            "Turn-Based",
+            "Singleplayer",
+            "Perma Death",
+            "Strategy",
+            "Atmospheric",
+            "Dark",
+            "Indie",
+            "2D",
+            "Roguelite",
+            "Horror",
+            "Gothic",
+            "Fantasy",
+            "Great Soundtrack"
+        ]
+    },
+    "264200": {
+        "nome": "One Finger Death Punch",
+        "generos": [
+            "Action",
+            "Casual",
+            "Indie"
+        ],
+        "tags": [
+            "Action",
+            "2D Fighter",
+            "Fast-Paced",
+            "Indie",
+            "Beat 'em up",
+            "Fighting",
+            "Singleplayer",
+            "Addictive",
+            "2D",
+            "Martial Arts",
+            "Casual",
+            "Difficult",
+            "Arcade",
+            "Gore",
+            "Rhythm",
+            "Great Soundtrack",
+            "Epic",
+            "Mouse Only",
+            "Funny",
+            "Violent"
+        ]
+    },
+    "268500": {
+        "nome": "XCOM® 2",
+        "generos": [
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Turn-Based Combat",
+            "Tactical",
+            "Character Customization",
+            "RPG",
+            "Turn-Based Tactics",
+            "Singleplayer",
+            "Sci-fi",
+            "War",
+            "Military",
+            "PvE",
+            "Isometric",
+            "Perma Death",
+            "Post-apocalyptic",
+            "Turn-Based Strategy",
+            "Turn-Based",
+            "Grid-Based Movement",
+            "Alternate History",
+            "Top-Down",
+            "Logic"
+        ]
+    },
+    "268910": {
+        "nome": "Cuphead",
+        "generos": [
+            "Action",
+            "Indie"
+        ],
+        "tags": [
+            "Difficult",
+            "Co-op",
+            "Cartoon",
+            "Platformer",
+            "Local Co-Op",
+            "Great Soundtrack",
+            "2D",
+            "Multiplayer",
+            "Indie",
+            "Hand-drawn",
+            "Bullet Hell",
+            "Cartoony",
+            "Retro",
+            "Action",
+            "Shoot 'Em Up",
+            "Singleplayer",
+            "Side Scroller",
+            "Souls-like",
+            "Colorful",
+            "Funny"
+        ]
+    },
+    "270150": {
+        "nome": "RUNNING WITH RIFLES",
+        "generos": [
+            "Action",
+            "Indie"
+        ],
+        "tags": [
+            "Top-Down Shooter",
+            "Action",
+            "Tactical",
+            "Military",
+            "Artificial Intelligence",
+            "Open World",
+            "Sandbox",
+            "Wargame",
+            "Top-Down",
+            "Moddable",
+            "Multiplayer",
+            "Singleplayer",
+            "Loot",
+            "PvE",
+            "Co-op",
+            "Shooter",
+            "Online Co-Op",
+            "Co-op Campaign",
+            "RPG",
+            "Isometric"
+        ]
+    },
+    "271590": {
+        "nome": "Grand Theft Auto V Legacy",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Multiplayer",
+            "Crime",
+            "Automobile Sim",
+            "Third Person",
+            "First-Person",
+            "Shooter",
+            "Adventure",
+            "Singleplayer",
+            "Third-Person Shooter",
+            "Racing",
+            "Co-op",
+            "Sandbox",
+            "Atmospheric",
+            "Funny",
+            "Great Soundtrack",
+            "Comedy",
+            "Moddable",
+            "RPG"
+        ]
+    },
+    "273350": {
+        "nome": "Evolve Stage 2",
+        "generos": [
+            "Action",
+            "Free To Play"
+        ],
+        "tags": [
+            "Action",
+            "Multiplayer",
+            "Co-op",
+            "FPS",
+            "Online Co-Op",
+            "Shooter",
+            "Team-Based",
+            "Survival",
+            "Sci-fi",
+            "Aliens",
+            "PvP",
+            "First-Person",
+            "Class-Based",
+            "Strategy",
+            "Atmospheric",
+            "Third Person",
+            "Tactical",
+            "Singleplayer",
+            "Stealth",
+            "Casual"
+        ]
+    },
+    "274520": {
+        "nome": "Darkwood",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "Horror",
+            "Survival Horror",
+            "Adventure",
+            "Psychological Horror",
+            "Action",
+            "Dark",
+            "RPG",
+            "Atmospheric",
+            "Survival",
+            "Exploration",
+            "Story Rich",
+            "Open World",
+            "Dark Fantasy",
+            "Singleplayer",
+            "Fantasy",
+            "Multiple Endings",
+            "Choices Matter",
+            "Action-Adventure",
+            "Supernatural",
+            "Combat"
+        ]
+    },
+    "281920": {
+        "nome": "Splatter - Zombiecalypse Now",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Action",
+            "Top-Down Shooter",
+            "Zombies",
+            "Indie",
+            "Top-Down",
+            "Post-apocalyptic",
+            "Adventure",
+            "Twin Stick Shooter",
+            "Destruction",
+            "Noir",
+            "Old School",
+            "Bullet Time",
+            "Horror",
+            "Atmospheric",
+            "Gore",
+            "Arcade",
+            "Comedy",
+            "Singleplayer",
+            "Local Multiplayer",
+            "Shooter"
+        ]
+    },
+    "283640": {
+        "nome": "Salt and Sanctuary",
+        "generos": [
+            "Action",
+            "Indie",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Metroidvania",
+            "Dark Fantasy",
+            "2D",
+            "Difficult",
+            "RPG",
+            "Action",
+            "Platformer",
+            "Local Co-Op",
+            "Indie",
+            "Atmospheric",
+            "Dark",
+            "Action RPG",
+            "Co-op",
+            "Side Scroller",
+            "Gore",
+            "Singleplayer",
+            "Adventure",
+            "Horror",
+            "Story Rich"
+        ]
+    },
+    "287700": {
+        "nome": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Stealth",
+            "Open World",
+            "Action",
+            "Story Rich",
+            "Tactical",
+            "Cinematic",
+            "Third Person",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Atmospheric",
+            "Adventure",
+            "Horses",
+            "Third-Person Shooter",
+            "Multiplayer",
+            "Shooter",
+            "Replay Value",
+            "Sandbox",
+            "Dark",
+            "Sci-fi",
+            "Heist"
+        ]
+    },
+    "289650": {
+        "nome": "Assassin's Creed® Unity",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Assassins",
+            "Parkour",
+            "Co-op",
+            "Stealth",
+            "Historical",
+            "Action",
+            "Adventure",
+            "Multiplayer",
+            "Third Person",
+            "Online Co-Op",
+            "Singleplayer",
+            "Atmospheric",
+            "Story Rich",
+            "Great Soundtrack",
+            "RPG",
+            "Action RPG",
+            "Tactical",
+            "Simulation",
+            "Beautiful"
+        ]
+    },
+    "292030": {
+        "nome": "The Witcher 3: Wild Hunt — Remastered",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "RPG",
+            "Story Rich",
+            "Atmospheric",
+            "Fantasy",
+            "Adventure",
+            "Singleplayer",
+            "Nudity",
+            "Choices Matter",
+            "Third Person",
+            "Great Soundtrack",
+            "Medieval",
+            "Action",
+            "Multiple Endings",
+            "Action RPG",
+            "Dark Fantasy",
+            "Magic",
+            "Dark",
+            "Sandbox",
+            "Sexual Content"
+        ]
+    },
+    "294100": {
+        "nome": "RimWorld",
+        "generos": [
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Colony Sim",
+            "Base Building",
+            "Survival",
+            "Strategy",
+            "Sandbox",
+            "Management",
+            "Singleplayer",
+            "Moddable",
+            "Simulation",
+            "Sci-fi",
+            "Story Rich",
+            "Replay Value",
+            "Open World",
+            "2D",
+            "Procedural Generation",
+            "City Builder",
+            "Indie",
+            "Building",
+            "Tactical RPG",
+            "Atmospheric"
+        ]
+    },
+    "301520": {
+        "nome": "Robocraft",
+        "generos": [
+            "Action",
+            "Indie",
+            "Massively Multiplayer",
+            "RPG",
+            "Simulation",
+            "Free To Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Robots",
+            "Building",
+            "Multiplayer",
+            "Action",
+            "Shooter",
+            "PvP",
+            "Massively Multiplayer",
+            "Sandbox",
+            "Crafting",
+            "Third-Person Shooter",
+            "Sci-fi",
+            "Strategy",
+            "Simulation",
+            "Early Access",
+            "Indie",
+            "Open World",
+            "Funny",
+            "Adventure",
+            "RPG"
+        ]
+    },
+    "304390": {
+        "nome": "FOR HONOR™",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Medieval",
+            "Swordplay",
+            "Action",
+            "Multiplayer",
+            "Fighting",
+            "PvP",
+            "Third Person",
+            "War",
+            "Gore",
+            "Co-op",
+            "Singleplayer",
+            "Online Co-Op",
+            "Hack and Slash",
+            "Realistic",
+            "Strategy",
+            "Atmospheric",
+            "RPG",
+            "Fantasy",
+            "Story Rich",
+            "MOBA"
+        ]
+    },
+    "305050": {
+        "nome": "Outland",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Platformer",
+            "Action",
+            "Metroidvania",
+            "2D",
+            "Co-op",
+            "Adventure",
+            "Indie",
+            "Bullet Hell",
+            "Singleplayer",
+            "Controller",
+            "Multiplayer",
+            "Great Soundtrack",
+            "Difficult",
+            "Online Co-Op",
+            "Arcade",
+            "Atmospheric"
+        ]
+    },
+    "306130": {
+        "nome": "The Elder Scrolls® Online",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "MMORPG",
+            "Open World",
+            "Fantasy",
+            "Adventure",
+            "Multiplayer",
+            "Exploration",
+            "Singleplayer",
+            "Massively Multiplayer",
+            "Action",
+            "Character Customization",
+            "PvP",
+            "PvE",
+            "Lore-Rich",
+            "Story Rich",
+            "Class-Based",
+            "Choose Your Own Adventure",
+            "Magic",
+            "Action RPG",
+            "Atmospheric"
+        ]
+    },
+    "307690": {
+        "nome": "Sleeping Dogs: Definitive Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Racing"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Martial Arts",
+            "Crime",
+            "Singleplayer",
+            "Third Person",
+            "Story Rich",
+            "Parkour",
+            "Adventure",
+            "Multiplayer",
+            "Gore",
+            "Racing",
+            "Atmospheric",
+            "Shooter",
+            "Third-Person Shooter",
+            "Sandbox",
+            "Great Soundtrack",
+            "Fighting",
+            "Remake",
+            "Beat 'em up"
+        ]
+    },
+    "310560": {
+        "nome": "DiRT Rally",
+        "generos": [
+            "Racing",
+            "Simulation",
+            "Sports"
+        ],
+        "tags": [
+            "Racing",
+            "Simulation",
+            "Automobile Sim",
+            "Driving",
+            "Multiplayer",
+            "Realistic",
+            "Offroad",
+            "Difficult",
+            "VR",
+            "Singleplayer",
+            "Sports",
+            "First-Person",
+            "Action",
+            "Atmospheric",
+            "Fast-Paced",
+            "Co-op",
+            "TrackIR",
+            "Open World",
+            "Family Friendly",
+            "Early Access"
+        ]
+    },
+    "311340": {
+        "nome": "METAL GEAR SOLID V: GROUND ZEROES",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Stealth",
+            "Action",
+            "Tactical",
+            "Short",
+            "Singleplayer",
+            "Third Person",
+            "Story Rich",
+            "Cinematic",
+            "Open World",
+            "Replay Value",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Adventure",
+            "Third-Person Shooter",
+            "Shooter",
+            "Sandbox",
+            "Classic",
+            "Cold War",
+            "Dark",
+            "Espionage"
+        ]
+    },
+    "311560": {
+        "nome": "Assassin’s Creed® Rogue",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Assassins",
+            "Action",
+            "Parkour",
+            "Stealth",
+            "Third Person",
+            "Adventure",
+            "Singleplayer",
+            "Historical",
+            "Pirates",
+            "Cinematic",
+            "Atmospheric",
+            "Story Rich",
+            "Action-Adventure",
+            "Quick-Time Events",
+            "Puzzle",
+            "Naval",
+            "Co-op",
+            "Simulation",
+            "Linear"
+        ]
+    },
+    "312660": {
+        "nome": "Sniper Elite 4",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Sniper",
+            "Action",
+            "Multiplayer",
+            "Shooter",
+            "War",
+            "Stealth",
+            "Co-op",
+            "World War II",
+            "Singleplayer",
+            "Third Person",
+            "Open World",
+            "Violent",
+            "Third-Person Shooter",
+            "Gore",
+            "FPS",
+            "Adventure",
+            "Tactical",
+            "First-Person",
+            "Strategy",
+            "Atmospheric"
+        ]
+    },
+    "322330": {
+        "nome": "Don't Starve Together",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Survival",
+            "Open World Survival Craft",
+            "Multiplayer",
+            "Co-op",
+            "Open World",
+            "Adventure",
+            "Crafting",
+            "Online Co-Op",
+            "Sandbox",
+            "Difficult",
+            "Indie",
+            "2D",
+            "Atmospheric",
+            "Survival Horror",
+            "Funny",
+            "Strategy",
+            "Horror",
+            "Singleplayer",
+            "Action",
+            "Roguelike"
+        ]
+    },
+    "323580": {
+        "nome": "Jotun: Valhalla Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Adventure",
+            "Mythology",
+            "Action",
+            "Indie",
+            "Hand-drawn",
+            "Female Protagonist",
+            "Difficult",
+            "Singleplayer",
+            "Atmospheric",
+            "Exploration",
+            "Great Soundtrack",
+            "Isometric",
+            "2D",
+            "Fantasy",
+            "Vikings",
+            "Controller",
+            "Boss Rush",
+            "Story Rich",
+            "Souls-like",
+            "Action-Adventure"
+        ]
+    },
+    "329050": {
+        "nome": "Devil May Cry 4 Special Edition",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Hack and Slash",
+            "Character Action Game",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Spectacle fighter",
+            "Third Person",
+            "Stylized",
+            "Difficult",
+            "Classic",
+            "Story Rich",
+            "Anime",
+            "Adventure",
+            "Atmospheric",
+            "Beat 'em up",
+            "Replay Value",
+            "Controller",
+            "Female Protagonist",
+            "Remake",
+            "Demons"
+        ]
+    },
+    "329070": {
+        "nome": "SpyParty",
+        "generos": [
+            "Action",
+            "Indie",
+            "Simulation",
+            "Strategy",
+            "Early Access"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Detective",
+            "Strategy",
+            "Stealth",
+            "Indie",
+            "Early Access",
+            "Action",
+            "Simulation",
+            "Mystery",
+            "Competitive",
+            "Assassins",
+            "Social Deduction",
+            "Co-op",
+            "Sniper",
+            "Singleplayer",
+            "Espionage",
+            "Sexual Content",
+            "Party Game"
+        ]
+    },
+    "331600": {
+        "nome": "One Piece Pirate Warriors 3",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Anime",
+            "Action",
+            "Hack and Slash",
+            "Pirates",
+            "Adventure",
+            "Fighting",
+            "Beat 'em up",
+            "Multiplayer",
+            "Musou",
+            "Third Person",
+            "Singleplayer",
+            "Local Co-Op",
+            "Comedy",
+            "Story Rich",
+            "Co-op",
+            "JRPG",
+            "Funny",
+            "Controller",
+            "Great Soundtrack",
+            "Open World"
+        ]
+    },
+    "335010": {
+        "nome": "Steam and Metal",
+        "generos": [
+            "Indie"
+        ],
+        "tags": [
+            "Indie",
+            "Steampunk",
+            "Shoot 'Em Up",
+            "Female Protagonist",
+            "Bullet Hell",
+            "Anime"
+        ]
+    },
+    "335300": {
+        "nome": "DARK SOULS™ II: Scholar of the First Sin",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Dark Fantasy",
+            "RPG",
+            "Difficult",
+            "Action",
+            "Third Person",
+            "Atmospheric",
+            "Action RPG",
+            "Character Customization",
+            "Co-op",
+            "Multiplayer",
+            "Fantasy",
+            "Adventure",
+            "Medieval",
+            "Dark",
+            "Singleplayer",
+            "Lore-Rich",
+            "Story Rich",
+            "PvP",
+            "Remake"
+        ]
+    },
+    "337000": {
+        "nome": "Deus Ex: Mankind Divided",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Cyberpunk",
+            "Stealth",
+            "RPG",
+            "Sci-fi",
+            "Story Rich",
+            "Action",
+            "Atmospheric",
+            "Immersive Sim",
+            "Singleplayer",
+            "First-Person",
+            "Futuristic",
+            "FPS",
+            "Great Soundtrack",
+            "Open World",
+            "Shooter",
+            "Conspiracy",
+            "Dystopian ",
+            "Transhumanism",
+            "Adventure",
+            "Third Person"
+        ]
+    },
+    "341800": {
+        "nome": "Keep Talking and Nobody Explodes",
+        "generos": [
+            "Indie"
+        ],
+        "tags": [
+            "Co-op",
+            "Puzzle",
+            "Local Multiplayer",
+            "Party Game",
+            "Board Game",
+            "Local Co-Op",
+            "Multiplayer",
+            "Party",
+            "VR",
+            "Difficult",
+            "Casual",
+            "Team-Based",
+            "Indie",
+            "Family Friendly",
+            "Funny",
+            "Asymmetric VR",
+            "Moddable",
+            "Simulation",
+            "Procedural Generation",
+            "Strategy"
+        ]
+    },
+    "346010": {
+        "nome": "Besiege",
+        "generos": [
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Simulation",
+            "Sandbox",
+            "Physics",
+            "Destruction",
+            "Medieval",
+            "Building",
+            "Moddable",
+            "Multiplayer",
+            "PvE",
+            "PvP",
+            "Puzzle",
+            "Vehicular Combat",
+            "Replay Value",
+            "Flight",
+            "Level Editor",
+            "Naval Combat",
+            "3D",
+            "Strategy",
+            "Dark Humor",
+            "Wargame"
+        ]
+    },
+    "349040": {
+        "nome": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Anime",
+            "Fighting",
+            "Action",
+            "Multiplayer",
+            "Ninja",
+            "Adventure",
+            "Story Rich",
+            "Local Multiplayer",
+            "Singleplayer",
+            "Third Person",
+            "Great Soundtrack",
+            "Open World",
+            "Fantasy",
+            "Online Co-Op",
+            "Co-op",
+            "Atmospheric",
+            "Local Co-Op",
+            "Beat 'em up",
+            "Memes",
+            "Controller"
+        ]
+    },
+    "354380": {
+        "nome": "Assassin’s Creed® Chronicles: China",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Assassins",
+            "Stealth",
+            "2.5D",
+            "Female Protagonist",
+            "Action",
+            "Parkour",
+            "Adventure",
+            "Side Scroller",
+            "Platformer",
+            "Singleplayer",
+            "Historical",
+            "2D",
+            "Open World",
+            "Atmospheric",
+            "Action-Adventure"
+        ]
+    },
+    "356190": {
+        "nome": "Middle-earth™: Shadow of War™",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "RPG",
+            "Singleplayer",
+            "Fantasy",
+            "Adventure",
+            "Third Person",
+            "Violent",
+            "Gore",
+            "Stealth",
+            "War",
+            "Story Rich",
+            "Hack and Slash",
+            "Action RPG",
+            "Medieval",
+            "Dark Fantasy",
+            "Magic",
+            "Atmospheric",
+            "Strategy",
+            "Multiplayer"
+        ]
+    },
+    "359550": {
+        "nome": "Tom Clancy's Rainbow Six Siege",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "FPS",
+            "PvP",
+            "Multiplayer",
+            "Shooter",
+            "Tactical",
+            "eSports",
+            "Competitive",
+            "Online Co-Op",
+            "Action",
+            "Hero Shooter",
+            "Team-Based",
+            "Military",
+            "Strategy",
+            "First-Person",
+            "Co-op",
+            "Realistic",
+            "Destruction",
+            "War",
+            "Difficult",
+            "3D"
+        ]
+    },
+    "359600": {
+        "nome": "Assassin’s Creed® Chronicles: Russia",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Assassins",
+            "2.5D",
+            "Stealth",
+            "Parkour",
+            "Platformer",
+            "Singleplayer",
+            "Historical",
+            "Open World",
+            "2D",
+            "Side Scroller"
+        ]
+    },
+    "359610": {
+        "nome": "Assassin’s Creed® Chronicles: India",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Assassins",
+            "Stealth",
+            "2.5D",
+            "Platformer",
+            "Singleplayer",
+            "Parkour",
+            "Side Scroller",
+            "2D",
+            "Historical",
+            "Open World"
+        ]
+    },
+    "360430": {
+        "nome": "Mafia III: Definitive Edition",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Crime",
+            "Open World",
+            "Action",
+            "Story Rich",
+            "Singleplayer",
+            "Third Person",
+            "Violent",
+            "Shooter",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Third-Person Shooter",
+            "Adventure",
+            "Nudity",
+            "Stealth",
+            "Multiplayer",
+            "Classic",
+            "Sandbox",
+            "Gore",
+            "FPS",
+            "Co-op"
+        ]
+    },
+    "364360": {
+        "nome": "Total War: WARHAMMER",
+        "generos": [
+            "Action",
+            "Strategy"
+        ],
+        "tags": [
+            "RPG",
+            "Strategy",
+            "Simulation",
+            "4X",
+            "Grand Strategy",
+            "Strategy RPG",
+            "RTS",
+            "Turn-Based Strategy",
+            "Real Time Tactics",
+            "Tactical RPG",
+            "Dwarves",
+            "Wargame",
+            "3D",
+            "Dark Fantasy",
+            "Demons",
+            "Fantasy",
+            "Magic",
+            "Lore-Rich",
+            "Supernatural",
+            "Tactical"
+        ]
+    },
+    "365450": {
+        "nome": "Hacknet",
+        "generos": [
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Hacking",
+            "Simulation",
+            "Programming",
+            "Typing",
+            "Story Rich",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Choices Matter",
+            "Crime",
+            "Atmospheric",
+            "Detective",
+            "Cyberpunk",
+            "Logic",
+            "2D",
+            "Education",
+            "Difficult",
+            "Adventure",
+            "Sci-fi",
+            "Dystopian ",
+            "Indie"
+        ]
+    },
+    "367500": {
+        "nome": "Dragon's Dogma: Dark Arisen",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Open World",
+            "Character Customization",
+            "Fantasy",
+            "Action",
+            "Adventure",
+            "Action RPG",
+            "Singleplayer",
+            "Dragons",
+            "Dark Fantasy",
+            "Third Person",
+            "Magic",
+            "Exploration",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Story Rich",
+            "Difficult",
+            "Multiplayer",
+            "JRPG",
+            "Hack and Slash"
+        ]
+    },
+    "367540": {
+        "nome": "Starbound - Unstable",
+        "generos": [
+            ""
+        ],
+        "tags": []
+    },
+    "368500": {
+        "nome": "Assassin's Creed® Syndicate",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Assassins",
+            "Open World",
+            "Action",
+            "Stealth",
+            "Parkour",
+            "Historical",
+            "Adventure",
+            "Third Person",
+            "Singleplayer",
+            "Story Rich",
+            "Female Protagonist",
+            "Atmospheric",
+            "Multiplayer",
+            "Steampunk",
+            "Great Soundtrack",
+            "Gore",
+            "Strategy",
+            "Funny",
+            "Co-op",
+            "RPG"
+        ]
+    },
+    "374320": {
+        "nome": "DARK SOULS™ III",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Souls-like",
+            "Dark Fantasy",
+            "Difficult",
+            "RPG",
+            "Atmospheric",
+            "Lore-Rich",
+            "Third Person",
+            "Exploration",
+            "Story Rich",
+            "Action RPG",
+            "Co-op",
+            "Great Soundtrack",
+            "Adventure",
+            "Action",
+            "Multiplayer",
+            "PvP",
+            "Open World",
+            "Singleplayer",
+            "Character Customization",
+            "Replay Value"
+        ]
+    },
+    "377160": {
+        "nome": "Fallout 4",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "Post-apocalyptic",
+            "Singleplayer",
+            "Exploration",
+            "RPG",
+            "Adventure",
+            "Atmospheric",
+            "Shooter",
+            "First-Person",
+            "Story Rich",
+            "Action",
+            "FPS",
+            "Sci-fi",
+            "Sandbox",
+            "Action RPG",
+            "Great Soundtrack",
+            "Survival",
+            "Third Person",
+            "Third-Person Shooter",
+            "Character Customization"
+        ]
+    },
+    "379430": {
+        "nome": "Kingdom Come: Deliverance",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Medieval",
+            "RPG",
+            "Open World",
+            "Singleplayer",
+            "Realistic",
+            "Historical",
+            "Story Rich",
+            "First-Person",
+            "Adventure",
+            "Swordplay",
+            "Nudity",
+            "Action",
+            "Choices Matter",
+            "Choose Your Own Adventure",
+            "Atmospheric",
+            "Horses",
+            "Action RPG",
+            "Indie",
+            "Great Soundtrack",
+            "Multiplayer"
+        ]
+    },
+    "388410": {
+        "nome": "Darksiders II Deathinitive Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Action",
+            "Hack and Slash",
+            "Adventure",
+            "RPG",
+            "Open World",
+            "Singleplayer",
+            "Third Person",
+            "Fantasy",
+            "Puzzle",
+            "Story Rich",
+            "Great Soundtrack",
+            "Action RPG",
+            "Dark Fantasy",
+            "Loot",
+            "Parkour",
+            "Spectacle fighter",
+            "Gore",
+            "Controller",
+            "Souls-like",
+            "Metroidvania"
+        ]
+    },
+    "413150": {
+        "nome": "Stardew Valley",
+        "generos": [
+            "Indie",
+            "RPG",
+            "Simulation"
+        ],
+        "tags": [
+            "Farming Sim",
+            "Pixel Graphics",
+            "Multiplayer",
+            "Life Sim",
+            "RPG",
+            "Relaxing",
+            "Simulation",
+            "Agriculture",
+            "Crafting",
+            "Sandbox",
+            "Indie",
+            "Building",
+            "Open World",
+            "Casual",
+            "Singleplayer",
+            "2D",
+            "Dating Sim",
+            "Cute",
+            "Great Soundtrack",
+            "Fishing"
+        ]
+    },
+    "418370": {
+        "nome": "Resident Evil 7 Biohazard",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Horror",
+            "Survival Horror",
+            "First-Person",
+            "Singleplayer",
+            "VR",
+            "Gore",
+            "Atmospheric",
+            "Zombies",
+            "Psychological Horror",
+            "Action",
+            "Violent",
+            "Survival",
+            "Puzzle",
+            "Story Rich",
+            "Multiplayer",
+            "Adventure",
+            "FPS",
+            "Exploration",
+            "Shooter",
+            "Classic"
+        ]
+    },
+    "425220": {
+        "nome": "One Piece Burning Blood",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Anime",
+            "Action",
+            "Fighting",
+            "Multiplayer",
+            "Pirates",
+            "Singleplayer",
+            "Local Multiplayer",
+            "Beat 'em up",
+            "Co-op",
+            "Story Rich",
+            "PvP",
+            "3D Fighter",
+            "RPG",
+            "Split Screen"
+        ]
+    },
+    "425580": {
+        "nome": "The Room Two",
+        "generos": [
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Puzzle",
+            "Mystery",
+            "Point & Click",
+            "Atmospheric",
+            "Hidden Object",
+            "Horror",
+            "Adventure",
+            "Indie",
+            "Singleplayer",
+            "Lovecraftian",
+            "Short",
+            "Psychological Horror",
+            "Dark",
+            "First-Person",
+            "Steampunk",
+            "Escape Room",
+            "Casual",
+            "Story Rich",
+            "Great Soundtrack",
+            "Thriller"
+        ]
+    },
+    "431960": {
+        "nome": "Wallpaper Engine",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Animation & Modeling",
+            "Design & Illustration",
+            "Photo Editing",
+            "Utilities"
+        ],
+        "tags": [
+            "Utilities",
+            "Anime",
+            "Software",
+            "Design & Illustration",
+            "Animation & Modeling",
+            "First-Person",
+            "Indie",
+            "Cute",
+            "Memes",
+            "Action",
+            "Singleplayer",
+            "Funny",
+            "Photo Editing",
+            "Early Access",
+            "Sandbox",
+            "Gaming",
+            "Horror",
+            "Game Development",
+            "Souls-like",
+            "Dating Sim"
+        ]
+    },
+    "435150": {
+        "nome": "Divinity: Original Sin 2 - Definitive Edition",
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "RPG",
+            "Tactical RPG",
+            "Turn-Based Strategy",
+            "Story Rich",
+            "Fantasy",
+            "Character Customization",
+            "CRPG",
+            "Exploration",
+            "Party-Based RPG",
+            "Strategy RPG",
+            "PvP",
+            "Female Protagonist",
+            "Co-op Campaign",
+            "Local Co-Op",
+            "Choices Matter",
+            "Romance",
+            "Isometric",
+            "Strategy",
+            "Moddable",
+            "Funny"
+        ]
+    },
+    "440900": {
+        "nome": "Conan Exiles Enhanced",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Survival",
+            "Open World",
+            "Nudity",
+            "Building",
+            "Open World Survival Craft",
+            "Crafting",
+            "Multiplayer",
+            "Sandbox",
+            "RPG",
+            "Massively Multiplayer",
+            "Adventure",
+            "Action",
+            "Online Co-Op",
+            "Exploration",
+            "Singleplayer",
+            "Co-op",
+            "Fantasy",
+            "Violent",
+            "Gore",
+            "PvP"
+        ]
+    },
+    "442070": {
+        "nome": "Drawful 2",
+        "generos": [
+            "Casual",
+            "Indie",
+            "Strategy"
+        ],
+        "tags": [
+            "Local Multiplayer",
+            "Party",
+            "Party Game",
+            "Multiplayer",
+            "Casual",
+            "Local Co-Op",
+            "Family Friendly",
+            "Funny",
+            "Indie",
+            "Comedy",
+            "Hand-drawn",
+            "Board Game",
+            "Co-op",
+            "2D",
+            "Trivia",
+            "4 Player Local",
+            "PvP",
+            "Cute",
+            "Strategy",
+            "Sexual Content"
+        ]
+    },
+    "447040": {
+        "nome": "Watch_Dogs® 2",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Hacking",
+            "Multiplayer",
+            "Action",
+            "Parkour",
+            "Stealth",
+            "Third Person",
+            "Shooter",
+            "Crime",
+            "Singleplayer",
+            "Third-Person Shooter",
+            "Adventure",
+            "Co-op",
+            "Atmospheric",
+            "Story Rich",
+            "Sandbox",
+            "Funny",
+            "FPS",
+            "Online Co-Op",
+            "Great Soundtrack"
+        ]
+    },
+    "454650": {
+        "nome": "DRAGON BALL XENOVERSE 2",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Massively Multiplayer"
+        ],
+        "tags": [
+            "Anime",
+            "Fighting",
+            "Character Customization",
+            "Action",
+            "Multiplayer",
+            "Adventure",
+            "Massively Multiplayer",
+            "Co-op",
+            "RPG",
+            "Online Co-Op",
+            "Singleplayer",
+            "Open World",
+            "Third Person",
+            "Story Rich",
+            "Moddable",
+            "MMORPG",
+            "Beat 'em up",
+            "Great Soundtrack",
+            "Dragons",
+            "Casual"
+        ]
+    },
+    "456750": {
+        "nome": "The Room Three",
+        "generos": [
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Puzzle",
+            "Mystery",
+            "Adventure",
+            "Point & Click",
+            "Indie",
+            "Atmospheric",
+            "Singleplayer",
+            "Hidden Object",
+            "Lovecraftian",
+            "Escape Room",
+            "Dark",
+            "Horror",
+            "Story Rich",
+            "Psychological Horror",
+            "Multiple Endings",
+            "First-Person",
+            "3D",
+            "Short",
+            "Casual",
+            "Detective"
+        ]
+    },
+    "460930": {
+        "nome": "Tom Clancy's Ghost Recon® Wildlands",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Shooter",
+            "Multiplayer",
+            "Singleplayer",
+            "Co-op",
+            "Stealth",
+            "Tactical",
+            "Action",
+            "Military",
+            "Third-Person Shooter",
+            "FPS",
+            "Online Co-Op",
+            "Third Person",
+            "Adventure",
+            "Survival",
+            "Strategy",
+            "Sandbox",
+            "First-Person",
+            "Atmospheric",
+            "PvP"
+        ]
+    },
+    "462780": {
+        "nome": "Darksiders Warmastered Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Action",
+            "Hack and Slash",
+            "Adventure",
+            "Third Person",
+            "Dark Fantasy",
+            "Singleplayer",
+            "RPG",
+            "Violent",
+            "Puzzle",
+            "Gore",
+            "Fantasy",
+            "Demons",
+            "Post-apocalyptic",
+            "Open World",
+            "Story Rich",
+            "Metroidvania",
+            "Controller",
+            "Remake",
+            "Difficult",
+            "Action RPG"
+        ]
+    },
+    "473690": {
+        "nome": "Absolver",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Fighting",
+            "Martial Arts",
+            "Action",
+            "Multiplayer",
+            "PvP",
+            "Open World",
+            "Adventure",
+            "Indie",
+            "PvE",
+            "Online Co-Op",
+            "RPG",
+            "Character Customization",
+            "Difficult",
+            "Co-op",
+            "Swordplay",
+            "Singleplayer",
+            "MMORPG",
+            "Massively Multiplayer",
+            "Souls-like",
+            "Atmospheric"
+        ]
+    },
+    "474750": {
+        "nome": "Reigns",
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulation"
+        ],
+        "tags": [
+            "Choices Matter",
+            "Medieval",
+            "Card Game",
+            "Indie",
+            "Life Sim",
+            "Choose Your Own Adventure",
+            "Singleplayer",
+            "RPG",
+            "Adventure",
+            "Simulation",
+            "Strategy",
+            "Casual",
+            "Comedy",
+            "Dark Humor",
+            "Fantasy",
+            "Funny",
+            "Story Rich",
+            "2D",
+            "Difficult",
+            "Great Soundtrack"
+        ]
+    },
+    "477160": {
+        "nome": "Human Fall Flat",
+        "generos": [
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Co-op",
+            "Funny",
+            "Puzzle",
+            "Multiplayer",
+            "Physics",
+            "Adventure",
+            "Sandbox",
+            "Puzzle Platformer",
+            "Open World",
+            "Action",
+            "Local Co-Op",
+            "Indie",
+            "Local Multiplayer",
+            "Comedy",
+            "Parkour",
+            "Casual",
+            "Split Screen",
+            "Singleplayer",
+            "3D Platformer",
+            "Simulation"
+        ]
+    },
+    "482400": {
+        "nome": "System Shock",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Immersive Sim",
+            "Cyberpunk",
+            "Sci-fi",
+            "Adventure",
+            "Horror",
+            "Remake",
+            "FPS",
+            "First-Person",
+            "Singleplayer",
+            "Atmospheric",
+            "Survival Horror",
+            "Space",
+            "Shooter",
+            "Story Rich",
+            "Gore",
+            "RPG",
+            "Violent",
+            "Survival",
+            "Classic"
+        ]
+    },
+    "485510": {
+        "nome": "Nioh: Complete Edition",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Action",
+            "RPG",
+            "Difficult",
+            "Hack and Slash",
+            "Dark Fantasy",
+            "Ninja",
+            "Action RPG",
+            "Third Person",
+            "Multiplayer",
+            "Singleplayer",
+            "JRPG",
+            "Co-op",
+            "Historical",
+            "Loot",
+            "Fantasy",
+            "Adventure",
+            "Atmospheric",
+            "Samurai",
+            "Nudity"
+        ]
+    },
+    "489830": {
+        "nome": "The Elder Scrolls V: Skyrim Special Edition",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "RPG",
+            "Fantasy",
+            "Adventure",
+            "Singleplayer",
+            "Character Customization",
+            "Moddable",
+            "Dragons",
+            "Story Rich",
+            "Magic",
+            "First-Person",
+            "Action",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Third Person",
+            "Stealth",
+            "Classic",
+            "Remake",
+            "Female Protagonist",
+            "Walking Simulator"
+        ]
+    },
+    "493520": {
+        "nome": "GTFO",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Online Co-Op",
+            "Horror",
+            "FPS",
+            "Co-op",
+            "Difficult",
+            "Multiplayer",
+            "Shooter",
+            "Survival Horror",
+            "Action",
+            "Stealth",
+            "Tactical",
+            "Team-Based",
+            "Gore",
+            "First-Person",
+            "Zombies",
+            "PvE",
+            "Atmospheric",
+            "Character Customization",
+            "Violent",
+            "Replay Value"
+        ]
+    },
+    "494430": {
+        "nome": "Praey for the Gods",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "tags": [
+            "Adventure",
+            "3D Platformer",
+            "Action-Adventure",
+            "Female Protagonist",
+            "Action",
+            "Puzzle Platformer",
+            "Exploration",
+            "Cinematic",
+            "Third Person",
+            "Mythology",
+            "Open World",
+            "Dark Fantasy",
+            "Atmospheric",
+            "Survival",
+            "Fantasy",
+            "Controller",
+            "Lore-Rich",
+            "Indie",
+            "Singleplayer",
+            "Soundtrack"
+        ]
+    },
+    "502280": {
+        "nome": "BERSERK and the Band of the Hawk",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Anime",
+            "Action",
+            "Hack and Slash",
+            "Dark Fantasy",
+            "Musou",
+            "Gore",
+            "Sexual Content",
+            "Violent",
+            "Nudity",
+            "Story Rich",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Horror",
+            "Third Person",
+            "Fantasy",
+            "Controller",
+            "Atmospheric",
+            "Casual",
+            "Souls-like",
+            "Open World"
+        ]
+    },
+    "502500": {
+        "nome": "ACE COMBAT™ 7: SKIES UNKNOWN",
+        "generos": [
+            "Action",
+            "Simulation"
+        ],
+        "tags": [
+            "Flight",
+            "Military",
+            "War",
+            "Arcade",
+            "Shooter",
+            "Cinematic",
+            "3D",
+            "Multiplayer",
+            "PvP",
+            "Action",
+            "Story Rich",
+            "Simulation",
+            "First-Person",
+            "Third Person",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Silent Protagonist",
+            "Sci-fi",
+            "Realistic",
+            "VR"
+        ]
+    },
+    "524220": {
+        "nome": "NieR:Automata™",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Hack and Slash",
+            "RPG",
+            "Great Soundtrack",
+            "Story Rich",
+            "Female Protagonist",
+            "Action",
+            "Spectacle fighter",
+            "Open World",
+            "JRPG",
+            "Anime",
+            "Post-apocalyptic",
+            "Singleplayer",
+            "Robots",
+            "Atmospheric",
+            "Sci-fi",
+            "Nudity",
+            "Adventure",
+            "Bullet Hell",
+            "Character Action Game",
+            "Violent"
+        ]
+    },
+    "543900": {
+        "nome": "METAL GEAR SURVIVE",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Strategy"
+        ],
+        "tags": [
+            "Survival",
+            "Action",
+            "Memes",
+            "Zombies",
+            "Base Building",
+            "Co-op",
+            "Adventure",
+            "Stealth",
+            "Open World",
+            "Multiplayer",
+            "Crafting",
+            "Strategy",
+            "Open World Survival Craft",
+            "Singleplayer",
+            "Comedy",
+            "Third Person",
+            "Tower Defense",
+            "Psychological Horror",
+            "Horror",
+            "Violent"
+        ]
+    },
+    "552520": {
+        "nome": "Far Cry® 5",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Action-Adventure",
+            "Co-op",
+            "Multiplayer",
+            "FPS",
+            "Shooter",
+            "Story Rich",
+            "Exploration",
+            "First-Person",
+            "Realistic",
+            "Stealth",
+            "Action",
+            "Adventure",
+            "Hunting",
+            "Survival",
+            "3D",
+            "Atmospheric",
+            "Nature",
+            "Psychedelic",
+            "Combat"
+        ]
+    },
+    "553640": {
+        "nome": "ICEY",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Action",
+            "Female Protagonist",
+            "Anime",
+            "Hack and Slash",
+            "Side Scroller",
+            "Adventure",
+            "Indie",
+            "Singleplayer",
+            "2D",
+            "RPG",
+            "Cyberpunk",
+            "Great Soundtrack",
+            "Character Action Game",
+            "Spectacle fighter",
+            "Metroidvania",
+            "Sci-fi",
+            "Platformer",
+            "Funny",
+            "Lovecraftian",
+            "Sexual Content"
+        ]
+    },
+    "553850": {
+        "nome": "HELLDIVERS™ 2",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Online Co-Op",
+            "PvE",
+            "Third-Person Shooter",
+            "Multiplayer",
+            "Shooter",
+            "Action",
+            "Co-op",
+            "Sci-fi",
+            "Extraction Shooter",
+            "Capitalism",
+            "Space",
+            "Third Person",
+            "Comedy",
+            "Gore",
+            "Great Soundtrack",
+            "Violent",
+            "Difficult",
+            "Psychological Horror",
+            "Singleplayer",
+            "Open World"
+        ]
+    },
+    "562810": {
+        "nome": "MONOPOLY® PLUS",
+        "generos": [
+            "Casual"
+        ],
+        "tags": [
+            "Board Game",
+            "Multiplayer",
+            "Family Friendly",
+            "Casual",
+            "Turn-Based Strategy",
+            "Local Multiplayer",
+            "Tabletop",
+            "Singleplayer",
+            "Capitalism",
+            "Strategy",
+            "Economy",
+            "Local Co-Op",
+            "Simulation",
+            "Funny",
+            "3D",
+            "Colorful",
+            "PvP",
+            "Logic",
+            "Grid-Based Movement",
+            "Resource Management"
+        ]
+    },
+    "570940": {
+        "nome": "DARK SOULS™: REMASTERED",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Souls-like",
+            "Dark Fantasy",
+            "RPG",
+            "Difficult",
+            "Action",
+            "Dark",
+            "Fantasy",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Action RPG",
+            "Lore-Rich",
+            "Adventure",
+            "Exploration",
+            "Third Person",
+            "Multiplayer",
+            "Story Rich",
+            "Replay Value",
+            "Character Customization",
+            "Soundtrack",
+            "Co-op"
+        ]
+    },
+    "582010": {
+        "nome": "Monster Hunter: World",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Co-op",
+            "Multiplayer",
+            "Action",
+            "Open World",
+            "RPG",
+            "Character Customization",
+            "Third Person",
+            "Adventure",
+            "Fantasy",
+            "Difficult",
+            "Action RPG",
+            "Singleplayer",
+            "Exploration",
+            "Great Soundtrack",
+            "Replay Value",
+            "Atmospheric",
+            "Hack and Slash",
+            "JRPG",
+            "MMORPG",
+            "Dating Sim"
+        ]
+    },
+    "582160": {
+        "nome": "Assassin's Creed® Origins",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "Assassins",
+            "Action-Adventure",
+            "Historical",
+            "RPG",
+            "Action",
+            "Stealth",
+            "Parkour",
+            "Adventure",
+            "Singleplayer",
+            "Third Person",
+            "Story Rich",
+            "Action RPG",
+            "Multiplayer",
+            "Exploration",
+            "Atmospheric",
+            "Mythology",
+            "3D",
+            "Cinematic",
+            "Lore-Rich"
+        ]
+    },
+    "582660": {
+        "nome": "Black Desert",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "Sandbox",
+            "Action RPG",
+            "Exploration",
+            "MMORPG",
+            "War",
+            "Medieval",
+            "Crafting",
+            "PvP",
+            "First-Person",
+            "Action-Adventure",
+            "Open World",
+            "Character Customization",
+            "RPG",
+            "Strategy",
+            "3D",
+            "Fantasy",
+            "Cooking",
+            "Action",
+            "Magic",
+            "Cinematic"
+        ]
+    },
+    "584210": {
+        "nome": "Tom Clancy's Ghost Recon® Wildlands Open Beta",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Open World",
+            "Multiplayer",
+            "Third-Person Shooter",
+            "Co-op",
+            "Stealth",
+            "Singleplayer"
+        ]
+    },
+    "594570": {
+        "nome": "Total War: WARHAMMER II",
+        "generos": [
+            "Action",
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Fantasy",
+            "Turn-Based Strategy",
+            "RTS",
+            "Grand Strategy",
+            "War",
+            "Multiplayer",
+            "Singleplayer",
+            "Action",
+            "Dark Fantasy",
+            "Turn-Based",
+            "Tactical",
+            "Real Time Tactics",
+            "Co-op",
+            "Dwarves",
+            "RPG",
+            "Simulation",
+            "Wargame",
+            "4X",
+            "Tactical RPG"
+        ]
+    },
+    "594650": {
+        "nome": "Hunt: Showdown 1896",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Multiplayer",
+            "FPS",
+            "PvP",
+            "Team-Based",
+            "Open World",
+            "Tactical",
+            "Extraction Shooter",
+            "Atmospheric",
+            "Western",
+            "Horror",
+            "Perma Death",
+            "Shooter",
+            "Online Co-Op",
+            "Co-op",
+            "Survival Horror",
+            "Difficult",
+            "Battle Royale",
+            "Action",
+            "Gore",
+            "Zombies"
+        ]
+    },
+    "595520": {
+        "nome": "FINAL FANTASY XII THE ZODIAC AGE",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "JRPG",
+            "Fantasy",
+            "Singleplayer",
+            "Story Rich",
+            "Great Soundtrack",
+            "Open World",
+            "Adventure",
+            "Exploration",
+            "Classic",
+            "Party-Based RPG",
+            "Real-Time with Pause",
+            "Action",
+            "Third Person",
+            "Turn-Based",
+            "Anime",
+            "Strategy",
+            "Remake",
+            "Atmospheric",
+            "Female Protagonist"
+        ]
+    },
+    "601150": {
+        "nome": "Devil May Cry 5",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Hack and Slash",
+            "Great Soundtrack",
+            "Character Action Game",
+            "Demons",
+            "Spectacle fighter",
+            "Third Person",
+            "Sexual Content",
+            "Singleplayer",
+            "Nudity",
+            "Violent",
+            "Story Rich",
+            "Stylized",
+            "Difficult",
+            "Gore",
+            "Multiplayer",
+            "Classic",
+            "Controller",
+            "Adventure",
+            "Anime"
+        ]
+    },
+    "606280": {
+        "nome": "Darksiders III",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Hack and Slash",
+            "Action",
+            "Female Protagonist",
+            "Souls-like",
+            "Singleplayer",
+            "Adventure",
+            "RPG",
+            "Action-Adventure",
+            "Open World",
+            "Third Person",
+            "Violent",
+            "Dark Fantasy",
+            "Story Rich",
+            "Atmospheric",
+            "Post-apocalyptic",
+            "Fantasy",
+            "Puzzle",
+            "Gore",
+            "Difficult",
+            "Metroidvania"
+        ]
+    },
+    "606880": {
+        "nome": "GreedFall",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Open World",
+            "Character Customization",
+            "Singleplayer",
+            "Choices Matter",
+            "Story Rich",
+            "Sexual Content",
+            "Fantasy",
+            "Third Person",
+            "Adventure",
+            "Action RPG",
+            "Action",
+            "Nudity",
+            "Action-Adventure",
+            "Romance",
+            "Female Protagonist",
+            "Atmospheric",
+            "Magic",
+            "LGBTQ+",
+            "Souls-like"
+        ]
+    },
+    "607890": {
+        "nome": "Sword Art Online: Hollow Realization Deluxe Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "RPG"
+        ],
+        "tags": [
+            "Anime",
+            "RPG",
+            "Open World",
+            "Action",
+            "JRPG",
+            "Multiplayer",
+            "Adventure",
+            "MMORPG",
+            "Character Customization",
+            "Casual",
+            "Singleplayer",
+            "Sexual Content",
+            "Nudity",
+            "Co-op",
+            "Massively Multiplayer",
+            "Hack and Slash",
+            "Dating Sim",
+            "Visual Novel",
+            "Memes",
+            "VR"
+        ]
+    },
+    "621060": {
+        "nome": "PC Building Simulator",
+        "generos": [
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Simulation",
+            "Education",
+            "Immersive Sim",
+            "Building",
+            "Management",
+            "Sandbox",
+            "First-Person",
+            "3D",
+            "Realistic",
+            "Life Sim",
+            "Singleplayer",
+            "Relaxing",
+            "Casual",
+            "Hardware",
+            "Funny",
+            "Modern",
+            "Puzzle",
+            "Inventory Management",
+            "Atmospheric",
+            "Indie"
+        ]
+    },
+    "623990": {
+        "nome": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "generos": [
+            ""
+        ],
+        "tags": []
+    },
+    "626690": {
+        "nome": "Sword Art Online: Fatal Bullet",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Anime",
+            "RPG",
+            "Character Customization",
+            "Action",
+            "Multiplayer",
+            "JRPG",
+            "Third-Person Shooter",
+            "Open World",
+            "Shooter",
+            "Third Person",
+            "Co-op",
+            "Singleplayer",
+            "MMORPG",
+            "Online Co-Op",
+            "Fantasy",
+            "Sexual Content",
+            "Great Soundtrack",
+            "Nudity",
+            "Visual Novel",
+            "FPS"
+        ]
+    },
+    "631510": {
+        "nome": "Devil May Cry HD Collection",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Hack and Slash",
+            "Action",
+            "Great Soundtrack",
+            "Character Action Game",
+            "Classic",
+            "Difficult",
+            "Spectacle fighter",
+            "Singleplayer",
+            "Demons",
+            "Stylized",
+            "Third Person",
+            "Violent",
+            "Gothic",
+            "Gore",
+            "Atmospheric",
+            "Story Rich",
+            "Fast-Paced",
+            "Adventure",
+            "Beat 'em up",
+            "Anime"
+        ]
+    },
+    "632360": {
+        "nome": "Risk of Rain 2",
+        "generos": [
+            "Action",
+            "Indie"
+        ],
+        "tags": [
+            "Third-Person Shooter",
+            "Action Roguelike",
+            "Multiplayer",
+            "Co-op",
+            "Roguelike",
+            "Roguelite",
+            "Action",
+            "Looter Shooter",
+            "Loot",
+            "Online Co-Op",
+            "Shooter",
+            "Great Soundtrack",
+            "Difficult",
+            "Indie",
+            "Third Person",
+            "Survival",
+            "Singleplayer",
+            "Soundtrack",
+            "Early Access",
+            "Bullet Hell"
+        ]
+    },
+    "632470": {
+        "nome": "Disco Elysium - The Final Cut",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Story Rich",
+            "Choices Matter",
+            "Detective",
+            "Isometric",
+            "Atmospheric",
+            "Singleplayer",
+            "Point & Click",
+            "CRPG",
+            "Noir",
+            "Surreal",
+            "Visual Novel",
+            "Exploration",
+            "Funny",
+            "Adventure",
+            "Indie",
+            "Open World",
+            "Character Customization",
+            "Sexual Content",
+            "Great Soundtrack"
+        ]
+    },
+    "633230": {
+        "nome": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Anime",
+            "Character Customization",
+            "Multiplayer",
+            "Action",
+            "Fighting",
+            "Ninja",
+            "Co-op",
+            "PvP",
+            "Open World",
+            "RPG",
+            "Third Person",
+            "Massively Multiplayer",
+            "Controller",
+            "Singleplayer",
+            "Adventure",
+            "Team-Based",
+            "Online Co-Op",
+            "MMORPG",
+            "Strategy",
+            "MOBA"
+        ]
+    },
+    "637650": {
+        "nome": "FINAL FANTASY XV WINDOWS EDITION",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Open World",
+            "JRPG",
+            "Fantasy",
+            "Story Rich",
+            "Great Soundtrack",
+            "Singleplayer",
+            "Adventure",
+            "Action",
+            "Multiplayer",
+            "Action RPG",
+            "Third Person",
+            "Anime",
+            "Hack and Slash",
+            "Atmospheric",
+            "Online Co-Op",
+            "Co-op",
+            "Violent",
+            "First-Person",
+            "Nudity"
+        ]
+    },
+    "638070": {
+        "nome": "Murderous Pursuits",
+        "generos": [
+            "Action",
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Action",
+            "Simulation",
+            "Indie",
+            "Strategy",
+            "Stealth",
+            "Multiplayer",
+            "Assassins",
+            "Mystery",
+            "Third Person",
+            "Co-op",
+            "Social Deduction"
+        ]
+    },
+    "640820": {
+        "nome": "Pathfinder: Kingmaker — Enhanced Plus Edition",
+        "generos": [
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Party-Based RPG",
+            "Fantasy",
+            "CRPG",
+            "Isometric",
+            "Character Customization",
+            "Choices Matter",
+            "Strategy RPG",
+            "Story Rich",
+            "Singleplayer",
+            "Real-Time with Pause",
+            "Adventure",
+            "Strategy",
+            "Turn-Based",
+            "Medieval",
+            "Sexual Content",
+            "Open World",
+            "Turn-Based Strategy",
+            "Female Protagonist",
+            "Nudity"
+        ]
+    },
+    "646910": {
+        "nome": "The Crew™ 2",
+        "generos": [
+            "Action",
+            "Massively Multiplayer",
+            "Racing"
+        ],
+        "tags": [
+            "Racing",
+            "Open World",
+            "Automobile Sim",
+            "Multiplayer",
+            "Driving",
+            "Massively Multiplayer",
+            "Action",
+            "Flight",
+            "Co-op",
+            "Singleplayer",
+            "Arcade",
+            "Online Co-Op",
+            "First-Person",
+            "Third Person",
+            "Simulation",
+            "Sports",
+            "Adventure",
+            "Sandbox",
+            "Atmospheric",
+            "VR"
+        ]
+    },
+    "654310": {
+        "nome": "For Honor - Public Test",
+        "generos": [
+            ""
+        ],
+        "tags": []
+    },
+    "657200": {
+        "nome": "Hand Simulator",
+        "generos": [
+            "Simulation"
+        ],
+        "tags": [
+            "Simulation",
+            "Funny",
+            "Multiplayer",
+            "VR",
+            "Difficult",
+            "Psychological Horror",
+            "First-Person",
+            "Memes",
+            "Comedy",
+            "Intentionally Awkward Controls",
+            "Sexual Content",
+            "Horror",
+            "Action",
+            "Nudity",
+            "FPS",
+            "Singleplayer",
+            "Atmospheric",
+            "World War II",
+            "Open World",
+            "Strategy"
+        ]
+    },
+    "674020": {
+        "nome": "World War 3",
+        "generos": [
+            "Action",
+            "Free To Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "FPS",
+            "Multiplayer",
+            "Realistic",
+            "Tactical",
+            "Online Co-Op",
+            "Military",
+            "PvP",
+            "Shooter",
+            "Character Customization",
+            "Gun Customization",
+            "War",
+            "Action",
+            "Modern",
+            "Team-Based",
+            "First-Person",
+            "Combat",
+            "Vehicular Combat",
+            "Physics",
+            "Atmospheric"
+        ]
+    },
+    "678960": {
+        "nome": "CODE VEIN",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Anime",
+            "Character Customization",
+            "Action RPG",
+            "Co-op",
+            "JRPG",
+            "Third Person",
+            "Singleplayer",
+            "Vampires",
+            "Action",
+            "Difficult",
+            "RPG",
+            "Multiplayer",
+            "Dark Fantasy",
+            "Post-apocalyptic",
+            "Online Co-Op",
+            "Hack and Slash",
+            "Violent",
+            "Adventure",
+            "Gore"
+        ]
+    },
+    "692850": {
+        "nome": "Bloodstained: Ritual of the Night",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Metroidvania",
+            "Female Protagonist",
+            "RPG",
+            "Action",
+            "Adventure",
+            "Anime",
+            "Side Scroller",
+            "2.5D",
+            "Platformer",
+            "Great Soundtrack",
+            "Gothic",
+            "Dark Fantasy",
+            "Exploration",
+            "Singleplayer",
+            "Crafting",
+            "2D",
+            "Difficult",
+            "Nudity",
+            "Indie",
+            "Sexual Content"
+        ]
+    },
+    "706220": {
+        "nome": "Black Desert Online SA",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "MMORPG",
+            "Massively Multiplayer",
+            "Open World",
+            "RPG",
+            "Character Customization",
+            "Fantasy",
+            "Adventure",
+            "PvP",
+            "Action",
+            "Multiplayer",
+            "Sandbox",
+            "Third Person",
+            "Hack and Slash",
+            "Co-op",
+            "Fishing",
+            "Violent",
+            "Female Protagonist",
+            "Strategy",
+            "Simulation",
+            "PvE"
+        ]
+    },
+    "739630": {
+        "nome": "Phasmophobia",
+        "generos": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "tags": [
+            "Horror",
+            "Online Co-Op",
+            "Multiplayer",
+            "Psychological Horror",
+            "Co-op",
+            "VR",
+            "Supernatural",
+            "First-Person",
+            "Investigation",
+            "Dark",
+            "Detective",
+            "Demons",
+            "Mystery",
+            "Thriller",
+            "3D",
+            "Early Access",
+            "Indie",
+            "Action",
+            "Tactical",
+            "Singleplayer"
+        ]
+    },
+    "740130": {
+        "nome": "Tales of ARISE",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Anime",
+            "JRPG",
+            "RPG",
+            "Action RPG",
+            "Open World",
+            "Singleplayer",
+            "Fantasy",
+            "Story Rich",
+            "Action",
+            "Third Person",
+            "Romance",
+            "Adventure",
+            "Magic",
+            "Combat",
+            "Female Protagonist",
+            "Character Customization",
+            "Controller",
+            "Hack and Slash",
+            "Sexual Content",
+            "Multiplayer"
+        ]
+    },
+    "770720": {
+        "nome": "Hunt: Showdown 1896 (Test Server)",
+        "generos": [
+            ""
+        ],
+        "tags": [
+            "Shooter"
+        ]
+    },
+    "812140": {
+        "nome": "Assassin's Creed® Odyssey",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "Action-Adventure",
+            "RPG",
+            "Mythology",
+            "Assassins",
+            "Exploration",
+            "Singleplayer",
+            "Multiple Endings",
+            "Historical",
+            "Action",
+            "Third Person",
+            "Adventure",
+            "Stealth",
+            "Story Rich",
+            "Female Protagonist",
+            "Parkour",
+            "Choices Matter",
+            "Multiplayer",
+            "Choose Your Own Adventure",
+            "Cinematic"
+        ]
+    },
+    "814380": {
+        "nome": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Souls-like",
+            "Difficult",
+            "Action",
+            "Singleplayer",
+            "Ninja",
+            "Stealth",
+            "Adventure",
+            "Third Person",
+            "Open World",
+            "Story Rich",
+            "Violent",
+            "Assassins",
+            "Atmospheric",
+            "Hack and Slash",
+            "Dark Fantasy",
+            "RPG",
+            "Gore",
+            "Great Soundtrack",
+            "Rhythm",
+            "Dark"
+        ]
+    },
+    "840720": {
+        "nome": "Sword Art Online: Lost Song",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Anime",
+            "Multiplayer",
+            "Character Customization",
+            "Open World",
+            "JRPG",
+            "Fantasy",
+            "Adventure",
+            "MMORPG",
+            "Action",
+            "Nudity",
+            "Singleplayer",
+            "Co-op",
+            "Hack and Slash",
+            "Action RPG",
+            "Story Rich"
+        ]
+    },
+    "863550": {
+        "nome": "HITMAN™ 2",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Stealth",
+            "Assassins",
+            "Action",
+            "Singleplayer",
+            "Third Person",
+            "Multiplayer",
+            "Violent",
+            "Open World",
+            "Sandbox",
+            "Strategy",
+            "Gore",
+            "Puzzle",
+            "Shooter",
+            "Atmospheric",
+            "Third-Person Shooter",
+            "Co-op",
+            "Funny",
+            "Online Co-Op",
+            "Great Soundtrack",
+            "Nudity"
+        ]
+    },
+    "883710": {
+        "nome": "Resident Evil 2",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Zombies",
+            "Survival Horror",
+            "Horror",
+            "Singleplayer",
+            "Remake",
+            "Third Person",
+            "Gore",
+            "Action",
+            "Puzzle",
+            "Atmospheric",
+            "Story Rich",
+            "Multiplayer",
+            "Violent",
+            "Survival",
+            "Classic",
+            "Female Protagonist",
+            "Dark",
+            "Shooter",
+            "Adventure",
+            "Difficult"
+        ]
+    },
+    "899440": {
+        "nome": "GOD EATER 3",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Anime",
+            "Action",
+            "Character Customization",
+            "Hack and Slash",
+            "Multiplayer",
+            "Hunting",
+            "Co-op",
+            "JRPG",
+            "RPG",
+            "Online Co-Op",
+            "Singleplayer",
+            "Action RPG",
+            "Third Person",
+            "Post-apocalyptic",
+            "Great Soundtrack",
+            "Story Rich",
+            "Adventure",
+            "Female Protagonist",
+            "Open World",
+            "Souls-like"
+        ]
+    },
+    "911400": {
+        "nome": "Assassin's Creed® III Remastered",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Assassins",
+            "Open World",
+            "Stealth",
+            "Historical",
+            "Parkour",
+            "Third Person",
+            "Singleplayer",
+            "Story Rich",
+            "Multiplayer",
+            "Action-Adventure",
+            "Great Soundtrack",
+            "Gore",
+            "RPG",
+            "Alternate History",
+            "Atmospheric",
+            "Action RPG",
+            "Co-op",
+            "Sci-fi"
+        ]
+    },
+    "931180": {
+        "nome": "Conan Exiles - Public Beta Client",
+        "generos": [
+            ""
+        ],
+        "tags": [
+            "Survival",
+            "Open World",
+            "Building",
+            "Crafting",
+            "RPG",
+            "Multiplayer",
+            "Massively Multiplayer",
+            "Sandbox",
+            "Action",
+            "Adventure",
+            "Online Co-Op",
+            "Exploration",
+            "Co-op",
+            "Singleplayer",
+            "Fantasy",
+            "Simulation",
+            "Strategy",
+            "PvP",
+            "Gore",
+            "Violent"
+        ]
+    },
+    "946090": {
+        "nome": "Hentai Neighbors",
+        "generos": [
+            "Casual"
+        ],
+        "tags": [
+            "Nudity",
+            "Sexual Content",
+            "Casual",
+            "Hentai",
+            "Puzzle",
+            "Anime",
+            "Singleplayer",
+            "Indie",
+            "Relaxing",
+            "Great Soundtrack",
+            "Simulation",
+            "Music",
+            "Cute",
+            "Story Rich",
+            "Dating Sim",
+            "Match 3",
+            "Visual Novel"
+        ]
+    },
+    "955050": {
+        "nome": "Bright Memory",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Female Protagonist",
+            "FPS",
+            "Hack and Slash",
+            "Shooter",
+            "First-Person",
+            "Action",
+            "Open World",
+            "Souls-like",
+            "Sci-fi",
+            "Adventure",
+            "Singleplayer",
+            "Anime",
+            "Indie",
+            "Multiplayer",
+            "Sexual Content",
+            "Gore",
+            "Violent",
+            "Nudity",
+            "Short",
+            "Early Access"
+        ]
+    },
+    "963690": {
+        "nome": "Hentai Girl Hime",
+        "generos": [
+            "Casual",
+            "Indie",
+            "RPG",
+            "Simulation"
+        ],
+        "tags": [
+            "Sexual Content",
+            "Nudity",
+            "Anime",
+            "Hentai",
+            "Casual",
+            "Puzzle",
+            "Indie",
+            "Simulation",
+            "RPG",
+            "Relaxing",
+            "Singleplayer",
+            "Cute",
+            "Female Protagonist",
+            "Free to Play",
+            "Visual Novel"
+        ]
+    },
+    "980300": {
+        "nome": "One Finger Death Punch 2",
+        "generos": [
+            "Action",
+            "Casual",
+            "Indie"
+        ],
+        "tags": [
+            "Action",
+            "Indie",
+            "Beat 'em up",
+            "Casual",
+            "Fast-Paced",
+            "Martial Arts",
+            "2D",
+            "Gore",
+            "Violent",
+            "Arcade",
+            "2D Fighter",
+            "Mouse Only",
+            "Singleplayer",
+            "Difficult",
+            "Rhythm",
+            "Great Soundtrack",
+            "Fighting",
+            "Funny"
+        ]
+    },
+    "999730": {
+        "nome": "Secret Neighbor Beta",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Horror",
+            "Free to Play",
+            "Adventure",
+            "Action",
+            "Indie",
+            "Co-op",
+            "Puzzle"
+        ]
+    },
+    "1002300": {
+        "nome": "Fear & Hunger",
+        "generos": [
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "tags": [
+            "Dark Fantasy",
+            "Sexual Content",
+            "RPG",
+            "Horror",
+            "Gore",
+            "Psychological Horror",
+            "Violent",
+            "Nudity",
+            "Difficult",
+            "Turn-Based Combat",
+            "Dark",
+            "Indie",
+            "Lovecraftian",
+            "Dungeon Crawler",
+            "Atmospheric",
+            "Adventure",
+            "Roguelike",
+            "2D",
+            "JRPG",
+            "Survival Horror"
+        ]
+    },
+    "1085660": {
+        "nome": "Destiny 2",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Free To Play"
+        ],
+        "tags": [
+            "Free to Play",
+            "Open World",
+            "Looter Shooter",
+            "Multiplayer",
+            "MMORPG",
+            "FPS",
+            "Co-op",
+            "PvE",
+            "PvP",
+            "Shooter",
+            "Loot",
+            "Massively Multiplayer",
+            "First-Person",
+            "Sci-fi",
+            "Action",
+            "Adventure",
+            "Space",
+            "Lore-Rich",
+            "Atmospheric",
+            "Competitive"
+        ]
+    },
+    "1086940": {
+        "nome": "Baldur's Gate 3",
+        "generos": [
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "RPG",
+            "Character Customization",
+            "Choices Matter",
+            "Turn-Based Combat",
+            "Story Rich",
+            "Sexual Content",
+            "CRPG",
+            "Fantasy",
+            "Adventure",
+            "Romance",
+            "Online Co-Op",
+            "Multiplayer",
+            "Nudity",
+            "Strategy",
+            "Singleplayer",
+            "Co-op Campaign",
+            "Class-Based",
+            "Dark Fantasy",
+            "Combat",
+            "LGBTQ+"
+        ]
+    },
+    "1089090": {
+        "nome": "ONE PIECE: PIRATE WARRIORS 4",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Anime",
+            "Hack and Slash",
+            "Beat 'em up",
+            "Pirates",
+            "Fighting",
+            "Split Screen",
+            "Action",
+            "PvP",
+            "Arcade",
+            "Musou",
+            "Multiplayer",
+            "Co-op",
+            "Adventure",
+            "Local Co-Op",
+            "RPG",
+            "Online Co-Op",
+            "Controller",
+            "Singleplayer",
+            "Comedy",
+            "Open World"
+        ]
+    },
+    "1091500": {
+        "nome": "Cyberpunk 2077",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "Cyberpunk",
+            "Open World",
+            "Nudity",
+            "RPG",
+            "Singleplayer",
+            "Story Rich",
+            "FPS",
+            "Sci-fi",
+            "Futuristic",
+            "First-Person",
+            "Atmospheric",
+            "Exploration",
+            "Action",
+            "Violent",
+            "Great Soundtrack",
+            "Action RPG",
+            "Adventure",
+            "Character Customization",
+            "Immersive Sim",
+            "LGBTQ+"
+        ]
+    },
+    "1142710": {
+        "nome": "Total War: WARHAMMER III",
+        "generos": [
+            "Action",
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Turn-Based Strategy",
+            "Grand Strategy",
+            "RTS",
+            "Fantasy",
+            "Real Time Tactics",
+            "War",
+            "Dark Fantasy",
+            "Dwarves",
+            "Action",
+            "Tactical",
+            "Multiplayer",
+            "Atmospheric",
+            "Co-op",
+            "Colorful",
+            "PvP",
+            "Singleplayer",
+            "Online Co-Op",
+            "Story Rich",
+            "Tower Defense"
+        ]
+    },
+    "1144200": {
+        "nome": "Ready or Not",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Tactical",
+            "Realistic",
+            "FPS",
+            "Shooter",
+            "Multiplayer",
+            "Singleplayer",
+            "Co-op",
+            "Horror",
+            "First-Person",
+            "Psychological Horror",
+            "Action",
+            "Violent",
+            "Gun Customization",
+            "Combat",
+            "Crime",
+            "Gore",
+            "Modern",
+            "Atmospheric",
+            "Co-op Campaign",
+            "VR"
+        ]
+    },
+    "1145360": {
+        "nome": "Hades",
+        "generos": [
+            "Action",
+            "Indie",
+            "RPG"
+        ],
+        "tags": [
+            "Action Roguelike",
+            "Roguelite",
+            "Hack and Slash",
+            "Indie",
+            "Mythology",
+            "Action",
+            "Roguelike",
+            "Singleplayer",
+            "Great Soundtrack",
+            "Story Rich",
+            "Dungeon Crawler",
+            "RPG",
+            "Replay Value",
+            "Isometric",
+            "Difficult",
+            "Hand-drawn",
+            "Action RPG",
+            "Atmospheric",
+            "Perma Death",
+            "LGBTQ+"
+        ]
+    },
+    "1158310": {
+        "nome": "Crusader Kings III",
+        "generos": [
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ],
+        "tags": [
+            "Strategy",
+            "Medieval",
+            "Grand Strategy",
+            "Simulation",
+            "RPG",
+            "Historical",
+            "Management",
+            "Character Customization",
+            "Life Sim",
+            "Sandbox",
+            "Choices Matter",
+            "RTS",
+            "War",
+            "Singleplayer",
+            "Economy",
+            "Multiplayer",
+            "Moddable",
+            "4X",
+            "Real-Time with Pause",
+            "Sexual Content"
+        ]
+    },
+    "1172620": {
+        "nome": "Sea of Thieves: 2026 Edition",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Open World",
+            "Adventure",
+            "Pirates",
+            "Co-op",
+            "Online Co-Op",
+            "PvP",
+            "Sailing",
+            "Action",
+            "First-Person",
+            "Exploration",
+            "Naval",
+            "PvE",
+            "Funny",
+            "Massively Multiplayer",
+            "FPS",
+            "Atmospheric",
+            "Singleplayer",
+            "Swordplay",
+            "Great Soundtrack"
+        ]
+    },
+    "1173770": {
+        "nome": "FINAL FANTASY",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "JRPG",
+            "RPG",
+            "Pixel Graphics",
+            "Turn-Based Combat",
+            "Party-Based RPG",
+            "2D",
+            "Exploration",
+            "Fantasy",
+            "Class-Based",
+            "Retro",
+            "Singleplayer",
+            "Magic",
+            "Adventure",
+            "Nostalgia",
+            "Remake",
+            "Emotional",
+            "Story Rich",
+            "Lore-Rich",
+            "Anime",
+            "Heist"
+        ]
+    },
+    "1173780": {
+        "nome": "FINAL FANTASY II",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "JRPG",
+            "Party-Based RPG",
+            "Exploration",
+            "2D",
+            "Turn-Based Combat",
+            "Fantasy",
+            "Class-Based",
+            "Pixel Graphics",
+            "Magic",
+            "Retro",
+            "Adventure",
+            "Singleplayer",
+            "Nostalgia",
+            "Remake",
+            "Emotional",
+            "Lore-Rich",
+            "Story Rich",
+            "Turn-Based"
+        ]
+    },
+    "1173790": {
+        "nome": "FINAL FANTASY III",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "JRPG",
+            "Singleplayer",
+            "2D",
+            "Adventure",
+            "Class-Based",
+            "Exploration",
+            "Fantasy",
+            "Magic",
+            "Nostalgia",
+            "Party-Based RPG",
+            "Pixel Graphics",
+            "Remake",
+            "Retro",
+            "Turn-Based Combat",
+            "Emotional",
+            "Lore-Rich",
+            "Story Rich",
+            "Turn-Based",
+            "Great Soundtrack"
+        ]
+    },
+    "1173800": {
+        "nome": "FINAL FANTASY IV",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "JRPG",
+            "Exploration",
+            "Party-Based RPG",
+            "2D",
+            "Lore-Rich",
+            "Turn-Based Combat",
+            "Story Rich",
+            "Fantasy",
+            "Class-Based",
+            "Pixel Graphics",
+            "Magic",
+            "Emotional",
+            "Adventure",
+            "Singleplayer",
+            "Nostalgia",
+            "Retro",
+            "Remake",
+            "Turn-Based",
+            "Great Soundtrack"
+        ]
+    },
+    "1173810": {
+        "nome": "FINAL FANTASY V",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Singleplayer",
+            "JRPG",
+            "Class-Based",
+            "2D",
+            "Pixel Graphics",
+            "Adventure",
+            "Party-Based RPG",
+            "Exploration",
+            "Turn-Based Combat",
+            "Emotional",
+            "Retro",
+            "Magic",
+            "Lore-Rich",
+            "Remake",
+            "Story Rich",
+            "Fantasy",
+            "Turn-Based",
+            "Great Soundtrack",
+            "Classic"
+        ]
+    },
+    "1173820": {
+        "nome": "FINAL FANTASY VI",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "2D",
+            "Singleplayer",
+            "JRPG",
+            "Adventure",
+            "Class-Based",
+            "Fantasy",
+            "Emotional",
+            "Exploration",
+            "Pixel Graphics",
+            "Lore-Rich",
+            "Nostalgia",
+            "Party-Based RPG",
+            "Magic",
+            "Turn-Based Combat",
+            "Retro",
+            "Remake",
+            "Story Rich",
+            "Great Soundtrack",
+            "Female Protagonist"
+        ]
+    },
+    "1178830": {
+        "nome": "Bright Memory: Infinite",
+        "generos": [
+            "Action",
+            "Indie"
+        ],
+        "tags": [
+            "Action",
+            "Female Protagonist",
+            "Sexual Content",
+            "FPS",
+            "Indie",
+            "Singleplayer",
+            "Shooter",
+            "Sci-fi",
+            "First-Person",
+            "Hack and Slash",
+            "Gore",
+            "Violent",
+            "Character Customization",
+            "Short",
+            "Souls-like",
+            "Swordplay",
+            "Futuristic",
+            "Multiplayer",
+            "Realistic",
+            "Adventure"
+        ]
+    },
+    "1184370": {
+        "nome": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "RPG",
+            "Choices Matter",
+            "CRPG",
+            "Singleplayer",
+            "Turn-Based Combat",
+            "Romance",
+            "Character Customization",
+            "Story Rich",
+            "Fantasy",
+            "Strategy",
+            "Tactical RPG",
+            "Isometric",
+            "Action",
+            "Dark Fantasy",
+            "Adventure",
+            "Combat",
+            "Open World",
+            "Exploration",
+            "Action RPG",
+            "Tactical"
+        ]
+    },
+    "1190460": {
+        "nome": "DEATH STRANDING",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Walking Simulator",
+            "Open World",
+            "Story Rich",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Post-apocalyptic",
+            "Cinematic",
+            "Sci-fi",
+            "Inventory Management",
+            "Third Person",
+            "Exploration",
+            "Adventure",
+            "Singleplayer",
+            "Lore-Rich",
+            "Surreal",
+            "Psychological Horror",
+            "Stealth",
+            "Action",
+            "Dark",
+            "Survival"
+        ]
+    },
+    "1196590": {
+        "nome": "Resident Evil Village",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Survival Horror",
+            "Horror",
+            "First-Person",
+            "Singleplayer",
+            "Action",
+            "Sexual Content",
+            "Zombies",
+            "Gore",
+            "Story Rich",
+            "VR",
+            "FPS",
+            "Atmospheric",
+            "Violent",
+            "Dark",
+            "Psychological Horror",
+            "Survival",
+            "Adventure",
+            "Multiplayer",
+            "Open World",
+            "Nudity"
+        ]
+    },
+    "1202690": {
+        "nome": "Sex with the Devil",
+        "generos": [
+            "Action",
+            "Simulation"
+        ],
+        "tags": [
+            "Sexual Content",
+            "Nudity",
+            "Violent",
+            "Gore",
+            "Simulation",
+            "Horror",
+            "3D",
+            "Singleplayer",
+            "First-Person",
+            "Psychological Horror",
+            "Psychological",
+            "Visual Novel",
+            "Realistic",
+            "Dungeon Crawler",
+            "Psychedelic",
+            "Atmospheric",
+            "Story Rich",
+            "Action",
+            "Exploration",
+            "Point & Click"
+        ]
+    },
+    "1206560": {
+        "nome": "WorldBox - God Simulator",
+        "generos": [
+            "Indie",
+            "Simulation",
+            "Early Access"
+        ],
+        "tags": [
+            "Sandbox",
+            "God Game",
+            "Simulation",
+            "Pixel Graphics",
+            "Colony Sim",
+            "Destruction",
+            "Life Sim",
+            "Building",
+            "Artificial Intelligence",
+            "Fantasy",
+            "Political Sim",
+            "Indie",
+            "Medieval",
+            "Relaxing",
+            "Management",
+            "Procedural Generation",
+            "Mythology",
+            "Idler",
+            "Early Access",
+            "Atmospheric"
+        ]
+    },
+    "1222680": {
+        "nome": "Need for Speed™ Heat",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Racing",
+            "Sports"
+        ],
+        "tags": [
+            "Racing",
+            "Multiplayer",
+            "Open World",
+            "Driving",
+            "Singleplayer",
+            "Action",
+            "Co-op",
+            "Adventure",
+            "Combat Racing",
+            "Arcade",
+            "Online Co-Op",
+            "Atmospheric",
+            "Controller",
+            "Third Person",
+            "Sports",
+            "PvP",
+            "First-Person",
+            "Character Customization",
+            "Destruction",
+            "Split Screen"
+        ]
+    },
+    "1222690": {
+        "nome": "Dragon Age™ Inquisition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "RPG",
+            "Character Customization",
+            "Open World",
+            "Choices Matter",
+            "Fantasy",
+            "Story Rich",
+            "Singleplayer",
+            "Sexual Content",
+            "Adventure",
+            "Action",
+            "Dragons",
+            "Multiplayer",
+            "Third Person",
+            "Action RPG",
+            "Strategy",
+            "Female Protagonist",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Combat",
+            "LGBTQ+"
+        ]
+    },
+    "1236300": {
+        "nome": "Resident Evil Re:Verse",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "PvP",
+            "Third-Person Shooter",
+            "Horror",
+            "Survival Horror",
+            "Gore",
+            "Violent",
+            "Multiplayer",
+            "Zombies",
+            "Atmospheric",
+            "Survival",
+            "Dark",
+            "Co-op",
+            "Psychological Horror",
+            "Adventure",
+            "Singleplayer",
+            "Sexual Content",
+            "Third Person",
+            "Free to Play",
+            "First-Person"
+        ]
+    },
+    "1238040": {
+        "nome": "Dragon Age II: Ultimate Edition",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Fantasy",
+            "Adventure",
+            "Action",
+            "Singleplayer",
+            "Character Customization",
+            "Combat",
+            "Choices Matter",
+            "Third Person",
+            "Action RPG",
+            "Story Rich",
+            "Sexual Content",
+            "Tactical RPG",
+            "Romance",
+            "Violent",
+            "Gore",
+            "Dark Fantasy",
+            "Open World",
+            "Female Protagonist",
+            "Party-Based RPG"
+        ]
+    },
+    "1245620": {
+        "nome": "ELDEN RING",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Open World",
+            "Dark Fantasy",
+            "RPG",
+            "Difficult",
+            "Action RPG",
+            "Multiplayer",
+            "Third Person",
+            "Fantasy",
+            "Singleplayer",
+            "Online Co-Op",
+            "Action",
+            "Co-op",
+            "Atmospheric",
+            "Great Soundtrack",
+            "PvP",
+            "Violent",
+            "3D",
+            "Character Customization",
+            "Family Friendly"
+        ]
+    },
+    "1262540": {
+        "nome": "Need for Speed™",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Racing",
+            "Simulation"
+        ],
+        "tags": [
+            "Racing",
+            "Multiplayer",
+            "Driving",
+            "Open World",
+            "Action",
+            "Adventure",
+            "Automobile Sim",
+            "Singleplayer",
+            "Destruction",
+            "Arcade",
+            "Simulation",
+            "Third Person",
+            "Co-op",
+            "Combat Racing",
+            "First-Person",
+            "Top-Down",
+            "Controller",
+            "Online Co-Op",
+            "Split Screen",
+            "FMV"
+        ]
+    },
+    "1274570": {
+        "nome": "DEVOUR",
+        "generos": [
+            "Indie"
+        ],
+        "tags": [
+            "Horror",
+            "Online Co-Op",
+            "Multiplayer",
+            "Survival Horror",
+            "Sexual Content",
+            "Co-op",
+            "Psychological Horror",
+            "Dark",
+            "Survival",
+            "First-Person",
+            "VR",
+            "Atmospheric",
+            "Indie",
+            "Gore",
+            "Puzzle",
+            "Difficult",
+            "Singleplayer",
+            "Violent",
+            "Action",
+            "Stealth"
+        ]
+    },
+    "1284210": {
+        "nome": "Guild Wars 2®",
+        "generos": [
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Free To Play"
+        ],
+        "tags": [
+            "MMORPG",
+            "Adventure",
+            "Free to Play",
+            "RPG",
+            "Character Customization",
+            "Fantasy",
+            "Massively Multiplayer",
+            "Third Person",
+            "PvP",
+            "3D",
+            "Multiplayer",
+            "Atmospheric",
+            "Class-Based",
+            "Combat",
+            "Strategy",
+            "Crafting",
+            "Online Co-Op",
+            "Exploration",
+            "Singleplayer",
+            "Story Rich"
+        ]
+    },
+    "1326470": {
+        "nome": "Sons Of The Forest",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Survival",
+            "Open World",
+            "Multiplayer",
+            "Co-op",
+            "Survival Horror",
+            "Base Building",
+            "Horror",
+            "Crafting",
+            "Building",
+            "First-Person",
+            "Exploration",
+            "Adventure",
+            "Singleplayer",
+            "Atmospheric",
+            "Sandbox",
+            "Action-Adventure",
+            "Action",
+            "Simulation",
+            "Immersive Sim",
+            "VR"
+        ]
+    },
+    "1328670": {
+        "nome": "Mass Effect™ Legendary Edition",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Story Rich",
+            "RPG",
+            "Choices Matter",
+            "Sci-fi",
+            "Singleplayer",
+            "Space",
+            "Character Customization",
+            "Third-Person Shooter",
+            "Action",
+            "Action RPG",
+            "Sexual Content",
+            "Romance",
+            "Shooter",
+            "Great Soundtrack",
+            "Nudity",
+            "Atmospheric",
+            "Female Protagonist",
+            "Combat",
+            "Classic",
+            "Military"
+        ]
+    },
+    "1358700": {
+        "nome": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Action",
+            "RPG",
+            "Adventure",
+            "Action RPG",
+            "JRPG",
+            "Spectacle fighter",
+            "3D",
+            "Third Person",
+            "Dark Fantasy",
+            "Atmospheric",
+            "Dark",
+            "Souls-like",
+            "Fantasy",
+            "Multiplayer",
+            "PvP",
+            "Singleplayer",
+            "Online Co-Op",
+            "Story Rich",
+            "Violent",
+            "Hack and Slash"
+        ]
+    },
+    "1361320": {
+        "nome": "The Room 4: Old Sins",
+        "generos": [
+            "Adventure"
+        ],
+        "tags": [
+            "Puzzle",
+            "Mystery",
+            "Point & Click",
+            "Adventure",
+            "Lovecraftian",
+            "Escape Room",
+            "Singleplayer",
+            "Hidden Object",
+            "Story Rich",
+            "Horror",
+            "Exploration",
+            "First-Person",
+            "3D",
+            "Atmospheric",
+            "Indie",
+            "Casual",
+            "Multiplayer",
+            "Steampunk",
+            "VR"
+        ]
+    },
+    "1435790": {
+        "nome": "Escape Simulator",
+        "generos": [
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Puzzle",
+            "Co-op",
+            "Multiplayer",
+            "Escape Room",
+            "First-Person",
+            "Adventure",
+            "Online Co-Op",
+            "Mystery",
+            "Family Friendly",
+            "Singleplayer",
+            "Controller",
+            "Simulation",
+            "Casual",
+            "Indie",
+            "VR",
+            "Point & Click",
+            "Level Editor",
+            "Investigation",
+            "Story Rich",
+            "Exploration"
+        ]
+    },
+    "1446780": {
+        "nome": "MONSTER HUNTER RISE",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Hunting",
+            "Online Co-Op",
+            "Character Customization",
+            "RPG",
+            "Multiplayer",
+            "Action RPG",
+            "Co-op",
+            "Singleplayer",
+            "Third Person",
+            "JRPG",
+            "PvE",
+            "Fantasy",
+            "Dragons",
+            "Anime",
+            "3D",
+            "Nature",
+            "Open World",
+            "Atmospheric",
+            "Ninja"
+        ]
+    },
+    "1462040": {
+        "nome": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Action RPG",
+            "JRPG",
+            "Singleplayer",
+            "Action-Adventure",
+            "Party-Based RPG",
+            "Spectacle fighter",
+            "Third Person",
+            "Action",
+            "Fantasy",
+            "Controller",
+            "Adventure",
+            "3D",
+            "Magic",
+            "Story Rich",
+            "3D Platformer",
+            "Cinematic",
+            "Realistic",
+            "Sci-fi",
+            "Great Soundtrack"
+        ]
+    },
+    "1501750": {
+        "nome": "Lords of the Fallen",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Online Co-Op",
+            "Dark Fantasy",
+            "Combat",
+            "Exploration",
+            "RPG",
+            "Action",
+            "Singleplayer",
+            "Story Rich",
+            "Dragons",
+            "Action RPG",
+            "Medieval",
+            "Action-Adventure",
+            "Adventure",
+            "Multiplayer",
+            "Lore-Rich",
+            "Character Customization",
+            "Magic",
+            "Open World",
+            "Fantasy"
+        ]
+    },
+    "1544020": {
+        "nome": "The Callisto Protocol™",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Horror",
+            "Sci-fi",
+            "Survival Horror",
+            "Third-Person Shooter",
+            "Space",
+            "Shooter",
+            "Third Person",
+            "Action-Adventure",
+            "PvE",
+            "Story Rich",
+            "Action",
+            "3D",
+            "Linear",
+            "Realistic",
+            "Adventure",
+            "Robots",
+            "Cinematic",
+            "Dark",
+            "Futuristic",
+            "Singleplayer"
+        ]
+    },
+    "1551360": {
+        "nome": "Forza Horizon 5",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Racing",
+            "Simulation",
+            "Sports"
+        ],
+        "tags": [
+            "Racing",
+            "Open World",
+            "Driving",
+            "Multiplayer",
+            "Automobile Sim",
+            "Realistic",
+            "Simulation",
+            "Adventure",
+            "Arcade",
+            "Exploration",
+            "First-Person",
+            "Co-op",
+            "Online Co-Op",
+            "Sports",
+            "VR",
+            "Singleplayer",
+            "Atmospheric",
+            "Beautiful",
+            "PvP",
+            "Action"
+        ]
+    },
+    "1593500": {
+        "nome": "God of War",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Action",
+            "Singleplayer",
+            "Story Rich",
+            "Mythology",
+            "Adventure",
+            "Combat",
+            "Third Person",
+            "Hack and Slash",
+            "RPG",
+            "Open World",
+            "Violent",
+            "Fantasy",
+            "Exploration",
+            "Atmospheric",
+            "Action RPG",
+            "Gore",
+            "Souls-like",
+            "Emotional",
+            "3D",
+            "PvE"
+        ]
+    },
+    "1606340": {
+        "nome": "Conquest of Elysium 5",
+        "generos": [
+            "Indie",
+            "Strategy"
+        ],
+        "tags": [
+            "Turn-Based Strategy",
+            "Strategy",
+            "Fantasy",
+            "4X",
+            "Magic",
+            "Roguelike",
+            "Exploration",
+            "Medieval",
+            "Moddable",
+            "Roguelite",
+            "Procedural Generation",
+            "Co-op",
+            "Asynchronous Multiplayer",
+            "Local Co-Op",
+            "Local Multiplayer",
+            "Multiplayer",
+            "Singleplayer",
+            "2D",
+            "Indie",
+            "PvP"
+        ]
+    },
+    "1716740": {
+        "nome": "Starfield",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "Space",
+            "Open World",
+            "Singleplayer",
+            "RPG",
+            "Sci-fi",
+            "Exploration",
+            "Character Customization",
+            "First-Person",
+            "Story Rich",
+            "Action-Adventure",
+            "Third Person",
+            "Adventure",
+            "Action RPG",
+            "Space Sim",
+            "Moddable",
+            "Atmospheric",
+            "Action",
+            "Cinematic",
+            "Realistic",
+            "Great Soundtrack"
+        ]
+    },
+    "1845910": {
+        "nome": "Dragon Age™: The Veilguard",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "LGBTQ+",
+            "Fantasy",
+            "Singleplayer",
+            "RPG",
+            "Action RPG",
+            "Strategy",
+            "CRPG",
+            "Turn-Based Tactics",
+            "Character Customization",
+            "Action",
+            "Third Person",
+            "Romance",
+            "Adventure",
+            "Dragons",
+            "Magic",
+            "Story Rich",
+            "Multiple Endings",
+            "Lore-Rich",
+            "Choices Matter",
+            "Psychological Horror"
+        ]
+    },
+    "1888160": {
+        "nome": "ARMORED CORE™ VI FIRES OF RUBICON™",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Mechs",
+            "Character Customization",
+            "Action",
+            "Robots",
+            "Third Person",
+            "Combat",
+            "Fast-Paced",
+            "Souls-like",
+            "Sci-fi",
+            "3D",
+            "Multiplayer",
+            "Futuristic",
+            "Singleplayer",
+            "Post-apocalyptic",
+            "Difficult",
+            "Vehicular Combat",
+            "Soundtrack",
+            "Military",
+            "Action-Adventure",
+            "Atmospheric"
+        ]
+    },
+    "1966720": {
+        "nome": "Lethal Company",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Early Access"
+        ],
+        "tags": [
+            "Online Co-Op",
+            "Horror",
+            "First-Person",
+            "Co-op",
+            "Survival Horror",
+            "Funny",
+            "Exploration",
+            "Psychological Horror",
+            "Sci-fi",
+            "PvE",
+            "Atmospheric",
+            "Procedural Generation",
+            "Aliens",
+            "Time Management",
+            "Adventure",
+            "Dungeon Crawler",
+            "Action",
+            "Early Access",
+            "Action-Adventure",
+            "Perma Death"
+        ]
+    },
+    "2054970": {
+        "nome": "Dragon's Dogma 2",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Open World",
+            "RPG",
+            "Action RPG",
+            "Fantasy",
+            "Singleplayer",
+            "Action",
+            "Adventure",
+            "Character Customization",
+            "Dragons",
+            "Magic",
+            "Action-Adventure",
+            "Medieval",
+            "Swordplay",
+            "Third Person",
+            "Physics",
+            "Lore-Rich",
+            "Multiplayer",
+            "Artificial Intelligence",
+            "3D",
+            "PvE"
+        ]
+    },
+    "2126550": {
+        "nome": "The Outlast Trials Closed Beta",
+        "generos": [
+            ""
+        ],
+        "tags": []
+    },
+    "2131630": {
+        "nome": "METAL GEAR SOLID - Master Collection Version",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Stealth",
+            "Action-Adventure",
+            "Adventure",
+            "Story Rich",
+            "Cinematic",
+            "Third-Person Shooter",
+            "Military",
+            "3D",
+            "Exploration",
+            "Tactical",
+            "Singleplayer",
+            "Top-Down",
+            "Classic",
+            "War",
+            "Violent",
+            "Gore",
+            "Tanks",
+            "Great Soundtrack",
+            "Espionage"
+        ]
+    },
+    "2131640": {
+        "nome": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Stealth",
+            "Action-Adventure",
+            "Adventure",
+            "Story Rich",
+            "Third-Person Shooter",
+            "Cinematic",
+            "Exploration",
+            "3D",
+            "Third Person",
+            "Military",
+            "Singleplayer",
+            "Tactical",
+            "War",
+            "Violent",
+            "Great Soundtrack",
+            "Classic",
+            "Atmospheric",
+            "Tanks",
+            "LGBTQ+"
+        ]
+    },
+    "2131650": {
+        "nome": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Stealth",
+            "Action-Adventure",
+            "Third-Person Shooter",
+            "Adventure",
+            "Cinematic",
+            "Exploration",
+            "Third Person",
+            "Survival",
+            "3D",
+            "Cold War",
+            "War",
+            "Story Rich",
+            "Tactical",
+            "Singleplayer",
+            "Tanks",
+            "Great Soundtrack",
+            "Military",
+            "Violent",
+            "Classic"
+        ]
+    },
+    "2131680": {
+        "nome": "METAL GEAR & METAL GEAR 2: Solid Snake",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Action-Adventure",
+            "Adventure",
+            "Exploration",
+            "2D Platformer",
+            "Top-Down Shooter",
+            "2D",
+            "Stealth",
+            "Pixel Graphics",
+            "Cinematic",
+            "Top-Down",
+            "1990's",
+            "Military",
+            "War",
+            "Tactical",
+            "Tanks",
+            "Singleplayer",
+            "Story Rich",
+            "Violent",
+            "Classic"
+        ]
+    },
+    "2138710": {
+        "nome": "Sifu",
+        "generos": [
+            "Action",
+            "Indie"
+        ],
+        "tags": [
+            "Action",
+            "Martial Arts",
+            "Beat 'em up",
+            "Difficult",
+            "Third Person",
+            "Singleplayer",
+            "Souls-like",
+            "Crime",
+            "Indie",
+            "Gore",
+            "Fighting",
+            "Swordplay",
+            "Arcade",
+            "Dark",
+            "Action Roguelike",
+            "Hack and Slash",
+            "Roguelike",
+            "Action-Adventure",
+            "Action RPG",
+            "War"
+        ]
+    },
+    "2215430": {
+        "nome": "Ghost of Tsushima DIRECTOR'S CUT",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Action",
+            "Story Rich",
+            "Singleplayer",
+            "Adventure",
+            "Stealth",
+            "Combat",
+            "Ninja",
+            "Third Person",
+            "Souls-like",
+            "Action-Adventure",
+            "Samurai",
+            "Historical",
+            "Action RPG",
+            "Atmospheric",
+            "Exploration",
+            "Multiplayer",
+            "Gore",
+            "Violent",
+            "Online Co-Op"
+        ]
+    },
+    "2246340": {
+        "nome": "Monster Hunter Wilds",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Hunting",
+            "Action",
+            "Multiplayer",
+            "Online Co-Op",
+            "Co-op",
+            "Character Customization",
+            "Open World",
+            "Dragons",
+            "Third Person",
+            "Action RPG",
+            "Dating Sim",
+            "Adventure",
+            "Fantasy",
+            "RPG",
+            "Singleplayer",
+            "Cute",
+            "Atmospheric",
+            "Great Soundtrack",
+            "Underwater",
+            "Souls-like"
+        ]
+    },
+    "2306740": {
+        "nome": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+        "generos": [
+            "Action"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Action-Adventure",
+            "2D Platformer",
+            "Exploration",
+            "Top-Down Shooter",
+            "2D",
+            "Cinematic",
+            "Top-Down",
+            "1990's",
+            "Stealth",
+            "Military",
+            "War",
+            "Tactical",
+            "Tanks",
+            "Singleplayer",
+            "Story Rich",
+            "Violent"
+        ]
+    },
+    "2322010": {
+        "nome": "God of War Ragnarök",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Action",
+            "Adventure",
+            "Action-Adventure",
+            "RPG",
+            "Hack and Slash",
+            "Mythology",
+            "Story Rich",
+            "Cinematic",
+            "Action RPG",
+            "Third Person",
+            "Singleplayer",
+            "3D",
+            "Open World",
+            "Atmospheric",
+            "Fantasy",
+            "Emotional",
+            "Combat",
+            "Gore",
+            "Souls-like",
+            "LGBTQ+"
+        ]
+    },
+    "2344520": {
+        "nome": "Diablo® IV",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Massively Multiplayer",
+            "RPG"
+        ],
+        "tags": [
+            "Action RPG",
+            "Hack and Slash",
+            "Loot",
+            "Isometric",
+            "RPG",
+            "Online Co-Op",
+            "Dungeon Crawler",
+            "Multiplayer",
+            "Co-op",
+            "Singleplayer",
+            "PvE",
+            "MMORPG",
+            "Demons",
+            "Character Customization",
+            "Dark",
+            "Fantasy",
+            "Dark Fantasy",
+            "Exploration",
+            "Gore",
+            "Story Rich"
+        ]
+    },
+    "2384580": {
+        "nome": "DYNASTY WARRIORS: ORIGINS",
+        "generos": [
+            "Action",
+            "RPG",
+            "Strategy"
+        ],
+        "tags": [
+            "Hack and Slash",
+            "Musou",
+            "Spectacle fighter",
+            "Martial Arts",
+            "Wargame",
+            "Action RPG",
+            "RPG",
+            "Strategy",
+            "Dating Sim",
+            "Historical",
+            "Third Person",
+            "3D",
+            "Swordplay",
+            "Controller",
+            "Action",
+            "Multiple Endings",
+            "Singleplayer",
+            "Story Rich",
+            "War",
+            "Tactical"
+        ]
+    },
+    "2417610": {
+        "nome": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Stealth",
+            "Action",
+            "Story Rich",
+            "Cinematic",
+            "Cold War",
+            "Remake",
+            "Military",
+            "Singleplayer",
+            "Third-Person Shooter",
+            "Action-Adventure",
+            "Tactical",
+            "Survival",
+            "3D",
+            "Adventure",
+            "Third Person",
+            "War",
+            "Violent",
+            "Exploration",
+            "Great Soundtrack",
+            "Tanks"
+        ]
+    },
+    "2483190": {
+        "nome": "Forza Horizon 6",
+        "generos": [
+            "Racing",
+            "Simulation",
+            "Sports"
+        ],
+        "tags": [
+            "Racing",
+            "Open World",
+            "Driving",
+            "Multiplayer",
+            "Automobile Sim",
+            "Simulation",
+            "Exploration",
+            "Realistic",
+            "Arcade",
+            "Sports",
+            "Atmospheric",
+            "Singleplayer",
+            "Online Co-Op",
+            "First-Person",
+            "VR",
+            "Co-op",
+            "PvP",
+            "Sandbox",
+            "Funny",
+            "LGBTQ+"
+        ]
+    },
+    "2515020": {
+        "nome": "FINAL FANTASY XVI",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Action RPG",
+            "Story Rich",
+            "Spectacle fighter",
+            "JRPG",
+            "Fantasy",
+            "Action",
+            "Dark Fantasy",
+            "Singleplayer",
+            "RPG",
+            "Cinematic",
+            "Third Person",
+            "3D",
+            "Emotional",
+            "Magic",
+            "Atmospheric",
+            "Party-Based RPG",
+            "Great Soundtrack",
+            "Hack and Slash",
+            "Violent",
+            "Open World"
+        ]
+    },
+    "2527870": {
+        "nome": "Half Sword Playtest",
+        "generos": [
+            ""
+        ],
+        "tags": []
+    },
+    "2592160": {
+        "nome": "Dispatch",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Strategy"
+        ],
+        "tags": [
+            "Choices Matter",
+            "Story Rich",
+            "Sexual Content",
+            "Nudity",
+            "Superhero",
+            "Singleplayer",
+            "Romance",
+            "Comedy",
+            "Choose Your Own Adventure",
+            "Episodic",
+            "Cinematic",
+            "Funny",
+            "Strategy",
+            "Action",
+            "Point & Click",
+            "Visual Novel",
+            "Comic Book",
+            "Indie",
+            "Adventure",
+            "Atmospheric"
+        ]
+    },
+    "2622380": {
+        "nome": "ELDEN RING NIGHTREIGN",
+        "generos": [
+            "Action",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Online Co-Op",
+            "Multiplayer",
+            "Roguelike",
+            "Co-op",
+            "Singleplayer",
+            "PvE",
+            "Action",
+            "Third Person",
+            "Roguelite",
+            "Action RPG",
+            "Open World",
+            "RPG",
+            "Dark",
+            "Violent",
+            "3D",
+            "Survival",
+            "Lore-Rich",
+            "Story Rich",
+            "Sexual Content"
+        ]
+    },
+    "2623190": {
+        "nome": "The Elder Scrolls IV: Oblivion Remastered",
+        "generos": [
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Open World",
+            "Fantasy",
+            "Singleplayer",
+            "Adventure",
+            "Exploration",
+            "Character Customization",
+            "First-Person",
+            "Action RPG",
+            "Third Person",
+            "Story Rich",
+            "Action-Adventure",
+            "Great Soundtrack",
+            "Atmospheric",
+            "Violent",
+            "Action",
+            "Sexual Content",
+            "Gore",
+            "Medieval",
+            "Nudity"
+        ]
+    },
+    "2680010": {
+        "nome": "The First Berserker: Khazan",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "Souls-like",
+            "Difficult",
+            "Hack and Slash",
+            "Action RPG",
+            "Anime",
+            "Action-Adventure",
+            "Third Person",
+            "RPG",
+            "Action",
+            "3D",
+            "Dark Fantasy",
+            "Cartoony",
+            "Atmospheric",
+            "Adventure",
+            "Dark",
+            "Gore",
+            "Combat",
+            "Cartoon",
+            "Singleplayer",
+            "Linear"
+        ]
+    },
+    "2694490": {
+        "nome": "Path of Exile 2",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Massively Multiplayer",
+            "RPG",
+            "Early Access"
+        ],
+        "tags": [
+            "Action RPG",
+            "Hack and Slash",
+            "RPG",
+            "Loot",
+            "Isometric",
+            "MMORPG",
+            "Dark Fantasy",
+            "Souls-like",
+            "Action",
+            "Dungeon Crawler",
+            "Multiplayer",
+            "Adventure",
+            "Online Co-Op",
+            "Character Customization",
+            "Inventory Management",
+            "Early Access",
+            "Crafting",
+            "Dark",
+            "Horror",
+            "Singleplayer"
+        ]
+    },
+    "2835570": {
+        "nome": "Buckshot Roulette",
+        "generos": [
+            "Action",
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Dark",
+            "Gambling",
+            "Horror",
+            "First-Person",
+            "Strategy",
+            "Singleplayer",
+            "Indie",
+            "Psychological",
+            "3D",
+            "Gore",
+            "Psychological Horror",
+            "Puzzle",
+            "Action",
+            "Experimental",
+            "Roguelike",
+            "Simulation",
+            "Surreal",
+            "FPS",
+            "Roguelite"
+        ]
+    },
+    "2909400": {
+        "nome": "FINAL FANTASY VII REBIRTH",
+        "generos": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "tags": [
+            "RPG",
+            "Action",
+            "Adventure",
+            "JRPG",
+            "Open World",
+            "Singleplayer",
+            "Action RPG",
+            "Party-Based RPG",
+            "Story Rich",
+            "Action-Adventure",
+            "Spectacle fighter",
+            "Third Person",
+            "Cinematic",
+            "Fantasy",
+            "Atmospheric",
+            "Realistic",
+            "Emotional",
+            "Magic",
+            "Anime",
+            "Great Soundtrack"
+        ]
+    },
+    "2947440": {
+        "nome": "SILENT HILL f",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Psychological Horror",
+            "Horror",
+            "Female Protagonist",
+            "Survival Horror",
+            "Story Rich",
+            "Souls-like",
+            "Action",
+            "Psychological",
+            "Adventure",
+            "Atmospheric",
+            "Action-Adventure",
+            "Exploration",
+            "Cinematic",
+            "Multiple Endings",
+            "Gore",
+            "Third Person",
+            "Singleplayer",
+            "Violent",
+            "3D",
+            "Combat"
+        ]
+    },
+    "3065170": {
+        "nome": "Monster Hunter Wilds Beta test",
+        "generos": [
+            ""
+        ],
+        "tags": []
+    },
+    "3180070": {
+        "nome": "No, I'm not a Human",
+        "generos": [
+            "Indie",
+            "Simulation"
+        ],
+        "tags": [
+            "Horror",
+            "Psychological Horror",
+            "Choices Matter",
+            "Indie",
+            "Singleplayer",
+            "Story Rich",
+            "Atmospheric",
+            "Multiple Endings",
+            "Dark",
+            "First-Person",
+            "Psychological",
+            "Gore",
+            "Mystery",
+            "Thriller",
+            "Retro",
+            "Narrative",
+            "Simulation",
+            "Psychedelic",
+            "Casual",
+            "Outbreak Sim"
+        ]
+    },
+    "3240220": {
+        "nome": "Grand Theft Auto V Enhanced",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Racing"
+        ],
+        "tags": [
+            "Open World",
+            "Sexual Content",
+            "Action",
+            "Multiplayer",
+            "Crime",
+            "Shooter",
+            "Third Person",
+            "Adventure",
+            "First-Person",
+            "Racing",
+            "Automobile Sim",
+            "Sandbox",
+            "Third-Person Shooter",
+            "Funny",
+            "Moddable",
+            "Nudity",
+            "Co-op",
+            "Atmospheric",
+            "PvP",
+            "Comedy"
+        ]
+    },
+    "3241660": {
+        "nome": "R.E.P.O.",
+        "generos": [
+            "Action",
+            "Early Access"
+        ],
+        "tags": [
+            "Horror",
+            "Online Co-Op",
+            "Multiplayer",
+            "Comedy",
+            "Co-op",
+            "Physics",
+            "First-Person",
+            "3D",
+            "Stealth",
+            "Survival",
+            "Robots",
+            "Funny",
+            "Exploration",
+            "Action",
+            "Procedural Generation",
+            "Action Roguelike",
+            "Post-apocalyptic",
+            "Sci-fi",
+            "Perma Death",
+            "Early Access"
+        ]
+    },
+    "3280350": {
+        "nome": "DEATH STRANDING 2: ON THE BEACH",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Open World",
+            "Exploration",
+            "Sci-fi",
+            "Walking Simulator",
+            "Action",
+            "Atmospheric",
+            "Third-Person Shooter",
+            "Post-apocalyptic",
+            "Third Person",
+            "Action-Adventure",
+            "Emotional",
+            "Adventure",
+            "Singleplayer",
+            "Stealth",
+            "Asynchronous Multiplayer",
+            "Realistic",
+            "Dystopian ",
+            "Horror",
+            "Great Soundtrack",
+            "Violent"
+        ]
+    },
+    "3527290": {
+        "nome": "PEAK",
+        "generos": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "tags": [
+            "Multiplayer",
+            "Online Co-Op",
+            "Co-op",
+            "Adventure",
+            "Physics",
+            "Exploration",
+            "First-Person",
+            "Comedy",
+            "3D",
+            "Procedural Generation",
+            "Atmospheric",
+            "Action Roguelike",
+            "Character Customization",
+            "Action",
+            "Time Management",
+            "Platformer",
+            "Horror",
+            "Mystery",
+            "Survival Horror",
+            "Investigation"
+        ]
+    },
+    "3564740": {
+        "nome": "Where Winds Meet",
+        "generos": [
+            ""
+        ],
+        "tags": [
+            "Open World",
+            "Free to Play",
+            "Multiplayer",
+            "Singleplayer",
+            "Action RPG",
+            "Souls-like",
+            "Character Customization",
+            "Action-Adventure",
+            "Adventure",
+            "Martial Arts",
+            "Fantasy",
+            "Atmospheric",
+            "Story Rich",
+            "MMORPG",
+            "Wuxia",
+            "Online Co-Op",
+            "Co-op",
+            "Action",
+            "Third Person",
+            "Spectacle fighter"
+        ]
+    },
+    "3764200": {
+        "nome": "Resident Evil Requiem",
+        "generos": [
+            "Action",
+            "Adventure"
+        ],
+        "tags": [
+            "Survival Horror",
+            "Zombies",
+            "Horror",
+            "Third-Person Shooter",
+            "Action",
+            "FPS",
+            "First-Person",
+            "Singleplayer",
+            "Action-Adventure",
+            "Cinematic",
+            "Realistic",
+            "Story Rich",
+            "3D",
+            "Dark",
+            "Female Protagonist",
+            "Post-apocalyptic",
+            "Violent",
+            "Inventory Management",
+            "Modern",
+            "Gore"
+        ]
+    }
+}
